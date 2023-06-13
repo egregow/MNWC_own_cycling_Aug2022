@@ -1,0 +1,6124 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="style.xsl"?>
+<STAT>
+<TAG>ALL</TAG>
+<VAR>3h Precipitation</VAR>
+<UNIT>mm/3h</UNIT>
+<PERIOD>20220816-20220831</PERIOD>
+ <STATION>
+ <MEAN_OBS>  0.261728406     </MEAN_OBS>
+ <STDV_OBS>   3.02773643     </STDV_OBS>
+ <EXP>
+ <ID>       26422 </ID>
+ <NAME>Prod_Stratus</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>  0.519805372     </MEAN>
+ <STDV>  -2.76174751E+30 </STDV>
+ <BIAS>   1.25401032     </BIAS>
+ <RMSE>  0.105528824     </RMSE>
+ <CORR>  -2.76170883E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26422 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.23790777     </BIAS>
+ <RMSE>  0.130276859     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26422 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>  -1.00664628E+21 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>   1.95629096     </BIAS>
+ <RMSE>  0.200197712     </RMSE>
+ <CORR> -0.335220337     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26422 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   4.56234754E-41 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>   3.05168724     </BIAS>
+ <RMSE>  0.133676440     </RMSE>
+ <CORR> -0.345323175     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.146296278     </MEAN_OBS>
+ <STDV_OBS>  0.788667619     </STDV_OBS>
+ <EXP>
+ <ID>       26229 </ID>
+ <NAME>Prod_Stratus</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>  0.144738942     </MEAN>
+ <STDV>  -2.76174751E+30 </STDV>
+ <BIAS>   2.09178400     </BIAS>
+ <RMSE>  0.485986680     </RMSE>
+ <CORR>  -2.76170883E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26229 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.50735545     </BIAS>
+ <RMSE>  0.473302305     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26229 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>  -1.00664628E+21 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>  0.840851605     </BIAS>
+ <RMSE>  0.620887339     </RMSE>
+ <CORR> -0.335220337     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26229 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   4.56234754E-41 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>  0.594009995     </BIAS>
+ <RMSE>  0.655367136     </RMSE>
+ <CORR> -0.345323175     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.145283014     </MEAN_OBS>
+ <STDV_OBS>   2.94297743     </STDV_OBS>
+ <EXP>
+ <ID>       26346 </ID>
+ <NAME>Prod_Stratus</NAME>
+ <NUM>         159 </NUM>
+ <MEAN>  0.464983761     </MEAN>
+ <STDV>  -2.76174751E+30 </STDV>
+ <BIAS>  0.588474989     </BIAS>
+ <RMSE>  0.784386814     </RMSE>
+ <CORR>  -2.76170883E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26346 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         159 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.791519582     </BIAS>
+ <RMSE>  0.725545228     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26346 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         159 </NUM>
+ <MEAN>  -1.00664628E+21 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>  0.881200194     </BIAS>
+ <RMSE>  0.506817400     </RMSE>
+ <CORR> -0.335220337     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26346 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         159 </NUM>
+ <MEAN>   4.56234754E-41 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>   2.82024717     </BIAS>
+ <RMSE>  0.277634591     </RMSE>
+ <CORR> -0.345323175     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.184905663     </MEAN_OBS>
+ <STDV_OBS>  0.843526542     </STDV_OBS>
+ <EXP>
+ <ID>       26429 </ID>
+ <NAME>Prod_Stratus</NAME>
+ <NUM>         159 </NUM>
+ <MEAN>  0.192000732     </MEAN>
+ <STDV>  -2.76174751E+30 </STDV>
+ <BIAS>   1.77586925     </BIAS>
+ <RMSE>  0.121996678     </RMSE>
+ <CORR>  -2.76170883E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26429 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         159 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.48473263     </BIAS>
+ <RMSE>  0.123884588     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26429 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         159 </NUM>
+ <MEAN>  -1.00664628E+21 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>   1.39533329     </BIAS>
+ <RMSE>  0.144060746     </RMSE>
+ <CORR> -0.335220337     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26429 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         159 </NUM>
+ <MEAN>   4.56234754E-41 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>  0.718278825     </BIAS>
+ <RMSE>  0.537716448     </RMSE>
+ <CORR> -0.345323175     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.147169828     </MEAN_OBS>
+ <STDV_OBS>   5.77144735E-02 </STDV_OBS>
+ <EXP>
+ <ID>       26544 </ID>
+ <NAME>Prod_Stratus</NAME>
+ <NUM>         159 </NUM>
+ <MEAN>   1.33001227E-02 </MEAN>
+ <STDV>  -2.76174751E+30 </STDV>
+ <BIAS>   1.06408787     </BIAS>
+ <RMSE>   2.31665149E-02 </RMSE>
+ <CORR>  -2.76170883E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26544 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         159 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.04940796     </BIAS>
+ <RMSE>   1.94087382E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26544 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         159 </NUM>
+ <MEAN>  -1.00664628E+21 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>   1.15808320     </BIAS>
+ <RMSE>  -8.85739550E-03 </RMSE>
+ <CORR> -0.335220337     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26544 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         159 </NUM>
+ <MEAN>   4.56234754E-41 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>  0.955753326     </BIAS>
+ <RMSE>  -1.05105655E-03 </RMSE>
+ <CORR> -0.345323175     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.263580263     </MEAN_OBS>
+ <STDV_OBS>   1.47788334     </STDV_OBS>
+ <EXP>
+ <ID>       26424 </ID>
+ <NAME>Prod_Stratus</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>  0.345239252     </MEAN>
+ <STDV>  -2.76174751E+30 </STDV>
+ <BIAS>   1.00781584     </BIAS>
+ <RMSE>  0.344080061     </RMSE>
+ <CORR>  -2.76170883E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26424 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.17568791     </BIAS>
+ <RMSE>  0.300582319     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26424 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>  -1.00664628E+21 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>  0.993759274     </BIAS>
+ <RMSE>  0.370800674     </RMSE>
+ <CORR> -0.335220337     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26424 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   4.56234754E-41 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>   1.26020658     </BIAS>
+ <RMSE>  0.525838673     </RMSE>
+ <CORR> -0.345323175     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.131481484     </MEAN_OBS>
+ <STDV_OBS>   1.92999470     </STDV_OBS>
+ <EXP>
+ <ID>       26348 </ID>
+ <NAME>Prod_Stratus</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>  0.324313074     </MEAN>
+ <STDV>  -2.76174751E+30 </STDV>
+ <BIAS>  0.760726929     </BIAS>
+ <RMSE>  0.171636030     </RMSE>
+ <CORR>  -2.76170883E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26348 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.706903040     </BIAS>
+ <RMSE>  0.165509865     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26348 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>  -1.00664628E+21 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>   2.04858160     </BIAS>
+ <RMSE>  0.118689612     </RMSE>
+ <CORR> -0.335220337     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26348 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   4.56234754E-41 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>   1.94166660     </BIAS>
+ <RMSE>   9.71413702E-02 </RMSE>
+ <CORR> -0.345323175     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.349382818     </MEAN_OBS>
+ <STDV_OBS>  0.773506820     </STDV_OBS>
+ <EXP>
+ <ID>       26425 </ID>
+ <NAME>Prod_Stratus</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>  0.224470019     </MEAN>
+ <STDV>  -2.76174751E+30 </STDV>
+ <BIAS>   1.73869586     </BIAS>
+ <RMSE>  0.209338829     </RMSE>
+ <CORR>  -2.76170883E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26425 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.70264685     </BIAS>
+ <RMSE>  0.184049681     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26425 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>  -1.00664628E+21 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>   1.39532685     </BIAS>
+ <RMSE>  0.343316644     </RMSE>
+ <CORR> -0.335220337     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26425 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   4.56234754E-41 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>   1.18085980     </BIAS>
+ <RMSE>  0.533721447     </RMSE>
+ <CORR> -0.345323175     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.484276652     </MEAN_OBS>
+ <STDV_OBS>   1.00548148     </STDV_OBS>
+ <EXP>
+ <ID>       26313 </ID>
+ <NAME>Prod_Stratus</NAME>
+ <NUM>         159 </NUM>
+ <MEAN>  0.238386512     </MEAN>
+ <STDV>  -2.76174751E+30 </STDV>
+ <BIAS>   1.33340645     </BIAS>
+ <RMSE>  0.877602279     </RMSE>
+ <CORR>  -2.76170883E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26313 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         159 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.53509533     </BIAS>
+ <RMSE>  0.795479894     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26313 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         159 </NUM>
+ <MEAN>  -1.00664628E+21 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>   1.31125367     </BIAS>
+ <RMSE>  0.795885444     </RMSE>
+ <CORR> -0.335220337     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26313 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         159 </NUM>
+ <MEAN>   4.56234754E-41 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>   1.39955759     </BIAS>
+ <RMSE>  0.815934837     </RMSE>
+ <CORR> -0.345323175     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.178395078     </MEAN_OBS>
+ <STDV_OBS>  0.902456522     </STDV_OBS>
+ <EXP>
+ <ID>       26406 </ID>
+ <NAME>Prod_Stratus</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>  0.254391462     </MEAN>
+ <STDV>  -2.76174751E+30 </STDV>
+ <BIAS>  0.609074831     </BIAS>
+ <RMSE>  0.627654970     </RMSE>
+ <CORR>  -2.76170883E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26406 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.628602266     </BIAS>
+ <RMSE>  0.619996190     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26406 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>  -1.00664628E+21 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>  0.790023446     </BIAS>
+ <RMSE>  0.472892314     </RMSE>
+ <CORR> -0.335220337     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26406 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   4.56234754E-41 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>  0.542245924     </BIAS>
+ <RMSE>  0.798240244     </RMSE>
+ <CORR> -0.345323175     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.186163545     </MEAN_OBS>
+ <STDV_OBS>   1.57965577     </STDV_OBS>
+ <EXP>
+ <ID>       26324 </ID>
+ <NAME>Prod_Stratus</NAME>
+ <NUM>         159 </NUM>
+ <MEAN>  0.367301852     </MEAN>
+ <STDV>  -2.76174751E+30 </STDV>
+ <BIAS>  0.875080705     </BIAS>
+ <RMSE>  0.574564934     </RMSE>
+ <CORR>  -2.76170883E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26324 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         159 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.894743800     </BIAS>
+ <RMSE>  0.546493530     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26324 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         159 </NUM>
+ <MEAN>  -1.00664628E+21 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>   1.42054605     </BIAS>
+ <RMSE>  0.405180424     </RMSE>
+ <CORR> -0.335220337     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26324 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         159 </NUM>
+ <MEAN>   4.56234754E-41 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>   1.48340249     </BIAS>
+ <RMSE>  0.400376230     </RMSE>
+ <CORR> -0.345323175     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.196855351     </MEAN_OBS>
+ <STDV_OBS>   2.37711716     </STDV_OBS>
+ <EXP>
+ <ID>       26403 </ID>
+ <NAME>Prod_Stratus</NAME>
+ <NUM>         159 </NUM>
+ <MEAN>  0.713103890     </MEAN>
+ <STDV>  -2.76174751E+30 </STDV>
+ <BIAS>   1.22826195     </BIAS>
+ <RMSE>  0.203303143     </RMSE>
+ <CORR>  -2.76170883E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26403 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         159 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.67982054     </BIAS>
+ <RMSE>  0.136644527     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26403 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         159 </NUM>
+ <MEAN>  -1.00664628E+21 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>   1.88624227     </BIAS>
+ <RMSE>  0.355610549     </RMSE>
+ <CORR> -0.335220337     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26403 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         159 </NUM>
+ <MEAN>   4.56234754E-41 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>   2.21163750     </BIAS>
+ <RMSE>  0.361377507     </RMSE>
+ <CORR> -0.345323175     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.305555552     </MEAN_OBS>
+ <STDV_OBS>   4.07093191     </STDV_OBS>
+ <EXP>
+ <ID>       26335 </ID>
+ <NAME>Prod_Stratus</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>  0.618585229     </MEAN>
+ <STDV>  -2.76174751E+30 </STDV>
+ <BIAS>  0.868611693     </BIAS>
+ <RMSE>  0.866554439     </RMSE>
+ <CORR>  -2.76170883E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26335 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.13863003     </BIAS>
+ <RMSE>  0.875084817     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26335 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>  -1.00664628E+21 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>   1.69321728     </BIAS>
+ <RMSE>  0.492791802     </RMSE>
+ <CORR> -0.335220337     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26335 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   4.56234754E-41 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>   2.56124282     </BIAS>
+ <RMSE>  0.948292613     </RMSE>
+ <CORR> -0.345323175     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.41975293E-02 </MEAN_OBS>
+ <STDV_OBS>  0.243157744     </STDV_OBS>
+ <EXP>
+ <ID>       26446 </ID>
+ <NAME>Prod_Stratus</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   4.88877408E-02 </MEAN>
+ <STDV>  -2.76174751E+30 </STDV>
+ <BIAS>  0.236519113     </BIAS>
+ <RMSE>  -1.44385053E-02 </RMSE>
+ <CORR>  -2.76170883E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26446 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.295141578     </BIAS>
+ <RMSE>  -1.26348455E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26446 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>  -1.00664628E+21 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>  0.603018224     </BIAS>
+ <RMSE>  -1.88141614E-02 </RMSE>
+ <CORR> -0.335220337     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26446 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   4.56234754E-41 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>  0.252262056     </BIAS>
+ <RMSE>   4.75748964E-02 </RMSE>
+ <CORR> -0.345323175     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.270370364     </MEAN_OBS>
+ <STDV_OBS>  0.258270472     </STDV_OBS>
+ <EXP>
+ <ID>       26238 </ID>
+ <NAME>Prod_Stratus</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   6.43909276E-02 </MEAN>
+ <STDV>  -2.76174751E+30 </STDV>
+ <BIAS>   2.15823817     </BIAS>
+ <RMSE>  0.316441536     </RMSE>
+ <CORR>  -2.76170883E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26238 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.90180278     </BIAS>
+ <RMSE>  0.264194071     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26238 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>  -1.00664628E+21 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>   2.33650398     </BIAS>
+ <RMSE>   2.17345078E-02 </RMSE>
+ <CORR> -0.335220337     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26238 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   4.56234754E-41 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>   1.40742218     </BIAS>
+ <RMSE>  0.281360656     </RMSE>
+ <CORR> -0.345323175     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.108024701     </MEAN_OBS>
+ <STDV_OBS>   2.02206063     </STDV_OBS>
+ <EXP>
+ <ID>       26416 </ID>
+ <NAME>Prod_Stratus</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>  0.430777222     </MEAN>
+ <STDV>  -2.76174751E+30 </STDV>
+ <BIAS>   1.66496587     </BIAS>
+ <RMSE>  0.251893252     </RMSE>
+ <CORR>  -2.76170883E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26416 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.82163417     </BIAS>
+ <RMSE>  0.227185309     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26416 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>  -1.00664628E+21 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>   2.29048777     </BIAS>
+ <RMSE>  0.538805306     </RMSE>
+ <CORR> -0.335220337     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26416 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   4.56234754E-41 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>   1.92016709     </BIAS>
+ <RMSE>  0.323980212     </RMSE>
+ <CORR> -0.345323175     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.167924538     </MEAN_OBS>
+ <STDV_OBS>   1.33334589     </STDV_OBS>
+ <EXP>
+ <ID>       26326 </ID>
+ <NAME>Prod_Stratus</NAME>
+ <NUM>         159 </NUM>
+ <MEAN>  0.272328973     </MEAN>
+ <STDV>  -2.76174751E+30 </STDV>
+ <BIAS>   1.55313587     </BIAS>
+ <RMSE>  0.145948082     </RMSE>
+ <CORR>  -2.76170883E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26326 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         159 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.66829753     </BIAS>
+ <RMSE>  0.121318974     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26326 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         159 </NUM>
+ <MEAN>  -1.00664628E+21 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>   1.63670957     </BIAS>
+ <RMSE>   5.17003201E-02 </RMSE>
+ <CORR> -0.335220337     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26326 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         159 </NUM>
+ <MEAN>   4.56234754E-41 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>   1.40065098     </BIAS>
+ <RMSE>  0.109399863     </RMSE>
+ <CORR> -0.345323175     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.16049366E-02 </MEAN_OBS>
+ <STDV_OBS>  0.309149593     </STDV_OBS>
+ <EXP>
+ <ID>       26435 </ID>
+ <NAME>Prod_Stratus</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   7.01856613E-02 </MEAN>
+ <STDV>  -2.76174751E+30 </STDV>
+ <BIAS>  0.214910492     </BIAS>
+ <RMSE>  -4.31498066E-02 </RMSE>
+ <CORR>  -2.76170883E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26435 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.167962983     </BIAS>
+ <RMSE>  -4.44441475E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26435 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>  -1.00664628E+21 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>   1.21979725     </BIAS>
+ <RMSE>  -5.80398552E-02 </RMSE>
+ <CORR> -0.335220337     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26435 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   4.56234754E-41 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>  0.321467489     </BIAS>
+ <RMSE>  -6.53731525E-02 </RMSE>
+ <CORR> -0.345323175     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.302515686     </MEAN_OBS>
+ <STDV_OBS>   1.40726209     </STDV_OBS>
+ <EXP>
+ <ID>       26318 </ID>
+ <NAME>Prod_Stratus</NAME>
+ <NUM>         159 </NUM>
+ <MEAN>  0.324837387     </MEAN>
+ <STDV>  -2.76174751E+30 </STDV>
+ <BIAS>   1.64622772     </BIAS>
+ <RMSE>  0.325324982     </RMSE>
+ <CORR>  -2.76170883E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26318 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         159 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.63443983     </BIAS>
+ <RMSE>  0.343538493     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26318 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         159 </NUM>
+ <MEAN>  -1.00664628E+21 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>   1.16316640     </BIAS>
+ <RMSE>  0.721769929     </RMSE>
+ <CORR> -0.335220337     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26318 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         159 </NUM>
+ <MEAN>   4.56234754E-41 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>  0.810610652     </BIAS>
+ <RMSE>  0.872039914     </RMSE>
+ <CORR> -0.345323175     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.338271588     </MEAN_OBS>
+ <STDV_OBS>   1.36935449     </STDV_OBS>
+ <EXP>
+ <ID>       26314 </ID>
+ <NAME>Prod_Stratus</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>  0.493178517     </MEAN>
+ <STDV>  -2.76174751E+30 </STDV>
+ <BIAS>   1.94662654     </BIAS>
+ <RMSE>  0.583637357     </RMSE>
+ <CORR>  -2.76170883E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26314 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.14271355     </BIAS>
+ <RMSE>  0.551669836     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26314 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>  -1.00664628E+21 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>   1.21488595     </BIAS>
+ <RMSE>  0.691058755     </RMSE>
+ <CORR> -0.335220337     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26314 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   4.56234754E-41 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>   1.33269274     </BIAS>
+ <RMSE>  0.423343420     </RMSE>
+ <CORR> -0.345323175     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.122222215     </MEAN_OBS>
+ <STDV_OBS>  0.369734406     </STDV_OBS>
+ <EXP>
+ <ID>       26436 </ID>
+ <NAME>Prod_Stratus</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   6.32416606E-02 </MEAN>
+ <STDV>  -2.76174751E+30 </STDV>
+ <BIAS>  0.781319201     </BIAS>
+ <RMSE>   7.51735643E-02 </RMSE>
+ <CORR>  -2.76170883E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26436 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.711816490     </BIAS>
+ <RMSE>   9.15288255E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26436 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>  -1.00664628E+21 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>  0.651023626     </BIAS>
+ <RMSE>  0.244836271     </RMSE>
+ <CORR> -0.335220337     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26436 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   4.56234754E-41 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>  0.569139481     </BIAS>
+ <RMSE>  0.220983446     </RMSE>
+ <CORR> -0.345323175     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.198113203     </MEAN_OBS>
+ <STDV_OBS>   2.27993631     </STDV_OBS>
+ <EXP>
+ <ID>       26339 </ID>
+ <NAME>Prod_Stratus</NAME>
+ <NUM>         159 </NUM>
+ <MEAN>  0.316259265     </MEAN>
+ <STDV>  -2.76174751E+30 </STDV>
+ <BIAS>   1.65237427     </BIAS>
+ <RMSE>  0.591175318     </RMSE>
+ <CORR>  -2.76170883E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26339 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         159 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.09017479     </BIAS>
+ <RMSE>  0.622702539     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26339 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         159 </NUM>
+ <MEAN>  -1.00664628E+21 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>   1.73195243     </BIAS>
+ <RMSE>  0.639483094     </RMSE>
+ <CORR> -0.335220337     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26339 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         159 </NUM>
+ <MEAN>   4.56234754E-41 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>   1.81563008     </BIAS>
+ <RMSE>  0.645142436     </RMSE>
+ <CORR> -0.345323175     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.116666652     </MEAN_OBS>
+ <STDV_OBS>  0.666400194     </STDV_OBS>
+ <EXP>
+ <ID>       26503 </ID>
+ <NAME>Prod_Stratus</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>  0.192767620     </MEAN>
+ <STDV>  -2.76174751E+30 </STDV>
+ <BIAS>  0.748444200     </BIAS>
+ <RMSE>  0.687291145     </RMSE>
+ <CORR>  -2.76170883E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26503 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.724357605     </BIAS>
+ <RMSE>  0.630890667     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26503 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>  -1.00664628E+21 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>  0.567166328     </BIAS>
+ <RMSE>  0.631514549     </RMSE>
+ <CORR> -0.335220337     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26503 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   4.56234754E-41 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>  0.597592831     </BIAS>
+ <RMSE>  0.491614342     </RMSE>
+ <CORR> -0.345323175     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.259259284     </MEAN_OBS>
+ <STDV_OBS>  0.277892292     </STDV_OBS>
+ <EXP>
+ <ID>       26447 </ID>
+ <NAME>Prod_Stratus</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   5.75769208E-02 </MEAN>
+ <STDV>  -2.76174751E+30 </STDV>
+ <BIAS>  0.911204755     </BIAS>
+ <RMSE>  0.388867199     </RMSE>
+ <CORR>  -2.76170883E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26447 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.826306403     </BIAS>
+ <RMSE>  0.476457745     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26447 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>  -1.00664628E+21 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>   1.30465817     </BIAS>
+ <RMSE>  0.707248449     </RMSE>
+ <CORR> -0.335220337     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26447 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   4.56234754E-41 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>  0.728913128     </BIAS>
+ <RMSE>  0.815552890     </RMSE>
+ <CORR> -0.345323175     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.112962961     </MEAN_OBS>
+ <STDV_OBS>  0.439024180     </STDV_OBS>
+ <EXP>
+ <ID>        6030 </ID>
+ <NAME>Prod_Stratus</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   6.54866993E-02 </MEAN>
+ <STDV>  -2.76174751E+30 </STDV>
+ <BIAS>  0.383127987     </BIAS>
+ <RMSE>  0.428883523     </RMSE>
+ <CORR>  -2.76170883E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6030 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.385874480     </BIAS>
+ <RMSE>  0.415193468     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6030 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>  -1.00664628E+21 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>  0.460524529     </BIAS>
+ <RMSE>  0.282905638     </RMSE>
+ <CORR> -0.335220337     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6030 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   4.56234754E-41 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>  0.481977105     </BIAS>
+ <RMSE>  0.370070100     </RMSE>
+ <CORR> -0.345323175     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.211111113     </MEAN_OBS>
+ <STDV_OBS>   1.00504756     </STDV_OBS>
+ <EXP>
+ <ID>        6060 </ID>
+ <NAME>Prod_Stratus</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>  0.130274892     </MEAN>
+ <STDV>  -2.76174751E+30 </STDV>
+ <BIAS>  0.939360499     </BIAS>
+ <RMSE>  0.492625982     </RMSE>
+ <CORR>  -2.76170883E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6060 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.828885734     </BIAS>
+ <RMSE>  0.644168556     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6060 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>  -1.00664628E+21 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>  0.987898767     </BIAS>
+ <RMSE>  0.477153927     </RMSE>
+ <CORR> -0.335220337     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6060 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   4.56234754E-41 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>  0.853315949     </BIAS>
+ <RMSE>  0.665603817     </RMSE>
+ <CORR> -0.345323175     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.174691379     </MEAN_OBS>
+ <STDV_OBS>   5.75058274E-02 </STDV_OBS>
+ <EXP>
+ <ID>        6070 </ID>
+ <NAME>Prod_Stratus</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   1.01960516E-02 </MEAN>
+ <STDV>  -2.76174751E+30 </STDV>
+ <BIAS>  0.858404160     </BIAS>
+ <RMSE>   8.18735436E-02 </RMSE>
+ <CORR>  -2.76170883E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6070 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.982832551     </BIAS>
+ <RMSE>   4.66498621E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6070 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>  -1.00664628E+21 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>  0.839038432     </BIAS>
+ <RMSE>  -7.53155909E-03 </RMSE>
+ <CORR> -0.335220337     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6070 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   4.56234754E-41 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>  0.614367723     </BIAS>
+ <RMSE>  0.379851907     </RMSE>
+ <CORR> -0.345323175     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.127564102     </MEAN_OBS>
+ <STDV_OBS>  0.395463377     </STDV_OBS>
+ <EXP>
+ <ID>        6180 </ID>
+ <NAME>Prod_Stratus</NAME>
+ <NUM>         156 </NUM>
+ <MEAN>   6.17580116E-02 </MEAN>
+ <STDV>  -2.76174751E+30 </STDV>
+ <BIAS>  0.667676747     </BIAS>
+ <RMSE>  0.747036099     </RMSE>
+ <CORR>  -2.76170883E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6180 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         156 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.561964929     </BIAS>
+ <RMSE>  0.661386192     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6180 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         156 </NUM>
+ <MEAN>  -1.00664628E+21 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>  0.318131268     </BIAS>
+ <RMSE>  0.782014072     </RMSE>
+ <CORR> -0.335220337     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6180 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         156 </NUM>
+ <MEAN>   4.56234754E-41 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>  0.292437583     </BIAS>
+ <RMSE>  0.811401188     </RMSE>
+ <CORR> -0.345323175     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.48148283E-02 </MEAN_OBS>
+ <STDV_OBS>  0.656513035     </STDV_OBS>
+ <EXP>
+ <ID>        6193 </ID>
+ <NAME>Prod_Stratus</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>  0.115894809     </MEAN>
+ <STDV>  -2.76174751E+30 </STDV>
+ <BIAS>  0.706410944     </BIAS>
+ <RMSE>  -1.92161221E-02 </RMSE>
+ <CORR>  -2.76170883E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6193 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.719237268     </BIAS>
+ <RMSE>  -2.34490037E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6193 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>  -1.00664628E+21 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>   1.20531309     </BIAS>
+ <RMSE>  -2.46519689E-02 </RMSE>
+ <CORR> -0.335220337     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6193 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   4.56234754E-41 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>  0.729278624     </BIAS>
+ <RMSE>  -1.56985894E-02 </RMSE>
+ <CORR> -0.345323175     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   6.07693009E-03 </STDV_OBS>
+ <EXP>
+ <ID>       10015 </ID>
+ <NAME>Prod_Stratus</NAME>
+ <NUM>         159 </NUM>
+ <MEAN>   1.34814635E-03 </MEAN>
+ <STDV>  -2.76174751E+30 </STDV>
+ <BIAS>   1.43105909E-03 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -2.76170883E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10015 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         159 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.44283916E-03 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10015 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         159 </NUM>
+ <MEAN>  -1.00664628E+21 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>   8.45979378E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR> -0.335220337     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10015 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         159 </NUM>
+ <MEAN>   4.56234754E-41 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>   6.05779001E-03 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR> -0.345323175     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.51851843E-02 </MEAN_OBS>
+ <STDV_OBS>   3.15501057E-02 </STDV_OBS>
+ <EXP>
+ <ID>       10020 </ID>
+ <NAME>Prod_Stratus</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   3.18287103E-03 </MEAN>
+ <STDV>  -2.76174751E+30 </STDV>
+ <BIAS>  0.958246469     </BIAS>
+ <RMSE>  0.576469958     </RMSE>
+ <CORR>  -2.76170883E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10020 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.171020433     </BIAS>
+ <RMSE>  0.775161803     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10020 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>  -1.00664628E+21 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>  0.860997736     </BIAS>
+ <RMSE>  0.616594732     </RMSE>
+ <CORR> -0.335220337     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10020 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   4.56234754E-41 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>  0.236166164     </BIAS>
+ <RMSE>  0.672033310     </RMSE>
+ <CORR> -0.345323175     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   9.25926026E-03 </MEAN_OBS>
+ <STDV_OBS>  0.257599205     </STDV_OBS>
+ <EXP>
+ <ID>       10035 </ID>
+ <NAME>Prod_Stratus</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   3.57589312E-02 </MEAN>
+ <STDV>  -2.76174751E+30 </STDV>
+ <BIAS>  0.872290492     </BIAS>
+ <RMSE>  0.164240688     </RMSE>
+ <CORR>  -2.76170883E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10035 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.13301635     </BIAS>
+ <RMSE>  0.159996212     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10035 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>  -1.00664628E+21 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>   7.75666162E-02 </BIAS>
+ <RMSE>  -1.90434251E-02 </RMSE>
+ <CORR> -0.335220337     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10035 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   4.56234754E-41 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>  0.233114973     </BIAS>
+ <RMSE>  0.516054809     </RMSE>
+ <CORR> -0.345323175     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.37037030E-02 </MEAN_OBS>
+ <STDV_OBS>  0.354270518     </STDV_OBS>
+ <EXP>
+ <ID>       10055 </ID>
+ <NAME>Prod_Stratus</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   5.50078042E-02 </MEAN>
+ <STDV>  -2.76174751E+30 </STDV>
+ <BIAS>  0.578858733     </BIAS>
+ <RMSE>   7.53912851E-02 </RMSE>
+ <CORR>  -2.76170883E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10055 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.507951438     </BIAS>
+ <RMSE>  0.217084497     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10055 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>  -1.00664628E+21 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>   1.14723480     </BIAS>
+ <RMSE>   3.72226499E-02 </RMSE>
+ <CORR> -0.335220337     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10055 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   4.56234754E-41 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>  0.488986701     </BIAS>
+ <RMSE>   1.39356055E-03 </RMSE>
+ <CORR> -0.345323175     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.81481515E-02 </MEAN_OBS>
+ <STDV_OBS>  0.113953516     </STDV_OBS>
+ <EXP>
+ <ID>       10147 </ID>
+ <NAME>Prod_Stratus</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   1.27465902E-02 </MEAN>
+ <STDV>  -2.76174751E+30 </STDV>
+ <BIAS>  0.282385379     </BIAS>
+ <RMSE>  0.515046537     </RMSE>
+ <CORR>  -2.76170883E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10147 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.272272944     </BIAS>
+ <RMSE>  0.440277934     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10147 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>  -1.00664628E+21 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>  0.244049653     </BIAS>
+ <RMSE>  0.623791873     </RMSE>
+ <CORR> -0.335220337     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10147 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   4.56234754E-41 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>  0.241731346     </BIAS>
+ <RMSE>  0.655472696     </RMSE>
+ <CORR> -0.345323175     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   8.14814940E-02 </MEAN_OBS>
+ <STDV_OBS>  0.889284790     </STDV_OBS>
+ <EXP>
+ <ID>       10162 </ID>
+ <NAME>Prod_Stratus</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>  0.220726997     </MEAN>
+ <STDV>  -2.76174751E+30 </STDV>
+ <BIAS>   1.54646397     </BIAS>
+ <RMSE>  0.156374067     </RMSE>
+ <CORR>  -2.76170883E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10162 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.47246718     </BIAS>
+ <RMSE>  0.166324511     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10162 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>  -1.00664628E+21 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>   1.36853778     </BIAS>
+ <RMSE>  0.102251239     </RMSE>
+ <CORR> -0.335220337     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10162 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   4.56234754E-41 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>  0.876077235     </BIAS>
+ <RMSE>  0.200252578     </RMSE>
+ <CORR> -0.345323175     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.273584872     </MEAN_OBS>
+ <STDV_OBS>   6.48798570E-02 </STDV_OBS>
+ <EXP>
+ <ID>       10184 </ID>
+ <NAME>Prod_Stratus</NAME>
+ <NUM>         159 </NUM>
+ <MEAN>   1.52751449E-02 </MEAN>
+ <STDV>  -2.76174751E+30 </STDV>
+ <BIAS>   1.14030313     </BIAS>
+ <RMSE>  0.213569716     </RMSE>
+ <CORR>  -2.76170883E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10184 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         159 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.21407509     </BIAS>
+ <RMSE>   9.81698707E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10184 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         159 </NUM>
+ <MEAN>  -1.00664628E+21 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>   1.19966125     </BIAS>
+ <RMSE>   7.05901980E-02 </RMSE>
+ <CORR> -0.335220337     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10184 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         159 </NUM>
+ <MEAN>   4.56234754E-41 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>   1.14500511     </BIAS>
+ <RMSE>  0.364940464     </RMSE>
+ <CORR> -0.345323175     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.85185120E-02 </MEAN_OBS>
+ <STDV_OBS>  0.431845903     </STDV_OBS>
+ <EXP>
+ <ID>       10200 </ID>
+ <NAME>Prod_Stratus</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   4.95812111E-02 </MEAN>
+ <STDV>  -2.76174751E+30 </STDV>
+ <BIAS>  0.432267636     </BIAS>
+ <RMSE>   5.75273734E-05 </RMSE>
+ <CORR>  -2.76170883E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10200 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.475574970     </BIAS>
+ <RMSE>   7.38550117E-03 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10200 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>  -1.00664628E+21 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>  0.352637559     </BIAS>
+ <RMSE>   7.83712044E-02 </RMSE>
+ <CORR> -0.335220337     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10200 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   4.56234754E-41 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>  0.549663246     </BIAS>
+ <RMSE>   1.54203279E-02 </RMSE>
+ <CORR> -0.345323175     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.85185194E-03 </MEAN_OBS>
+ <STDV_OBS>  0.379587263     </STDV_OBS>
+ <EXP>
+ <ID>       10224 </ID>
+ <NAME>Prod_Stratus</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   4.69834954E-02 </MEAN>
+ <STDV>  -2.76174751E+30 </STDV>
+ <BIAS>   1.43641376     </BIAS>
+ <RMSE>  -1.64127517E-02 </RMSE>
+ <CORR>  -2.76170883E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10224 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.30520034     </BIAS>
+ <RMSE>  -1.74621269E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10224 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>  -1.00664628E+21 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>  0.285828590     </BIAS>
+ <RMSE>  -1.14003615E-02 </RMSE>
+ <CORR> -0.335220337     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10224 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   4.56234754E-41 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>  0.378883660     </BIAS>
+ <RMSE>  -1.70545541E-02 </RMSE>
+ <CORR> -0.345323175     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   8.80503058E-02 </MEAN_OBS>
+ <STDV_OBS>   2.66951323     </STDV_OBS>
+ <EXP>
+ <ID>       10361 </ID>
+ <NAME>Prod_Stratus</NAME>
+ <NUM>         159 </NUM>
+ <MEAN>  0.347311825     </MEAN>
+ <STDV>  -2.76174751E+30 </STDV>
+ <BIAS>   1.06293547     </BIAS>
+ <RMSE>  0.559883595     </RMSE>
+ <CORR>  -2.76170883E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10361 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         159 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.04794228     </BIAS>
+ <RMSE>  0.642851055     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10361 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         159 </NUM>
+ <MEAN>  -1.00664628E+21 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>   1.01496935     </BIAS>
+ <RMSE>  0.233176976     </RMSE>
+ <CORR> -0.335220337     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10361 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         159 </NUM>
+ <MEAN>   4.56234754E-41 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>   2.61142278     </BIAS>
+ <RMSE>  0.201193362     </RMSE>
+ <CORR> -0.345323175     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.170370400     </MEAN_OBS>
+ <STDV_OBS>   2.87218761     </STDV_OBS>
+ <EXP>
+ <ID>       10393 </ID>
+ <NAME>Prod_Stratus</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>  0.359016269     </MEAN>
+ <STDV>  -2.76174751E+30 </STDV>
+ <BIAS>   4.89248228     </BIAS>
+ <RMSE>  0.224899426     </RMSE>
+ <CORR>  -2.76170883E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10393 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.81569576     </BIAS>
+ <RMSE>  0.229030281     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10393 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>  -1.00664628E+21 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>  0.694142282     </BIAS>
+ <RMSE>  0.210818410     </RMSE>
+ <CORR> -0.335220337     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10393 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   4.56234754E-41 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>   2.77010322     </BIAS>
+ <RMSE>  0.253934145     </RMSE>
+ <CORR> -0.345323175     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.04938280E-02 </MEAN_OBS>
+ <STDV_OBS>   9.70084816E-02 </STDV_OBS>
+ <EXP>
+ <ID>       10400 </ID>
+ <NAME>Prod_Stratus</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   1.57697909E-02 </MEAN>
+ <STDV>  -2.76174751E+30 </STDV>
+ <BIAS>  0.358121395     </BIAS>
+ <RMSE>  0.115166217     </RMSE>
+ <CORR>  -2.76170883E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10400 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.443335086     </BIAS>
+ <RMSE>  0.102749199     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10400 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>  -1.00664628E+21 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>  0.433332771     </BIAS>
+ <RMSE>   7.43804798E-02 </RMSE>
+ <CORR> -0.335220337     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10400 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   4.56234754E-41 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>  0.109256141     </BIAS>
+ <RMSE>  0.302566409     </RMSE>
+ <CORR> -0.345323175     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.69811305E-02 </MEAN_OBS>
+ <STDV_OBS>  0.247032687     </STDV_OBS>
+ <EXP>
+ <ID>       10113 </ID>
+ <NAME>Prod_Stratus</NAME>
+ <NUM>         159 </NUM>
+ <MEAN>   3.43980193E-02 </MEAN>
+ <STDV>  -2.76174751E+30 </STDV>
+ <BIAS>  0.434136301     </BIAS>
+ <RMSE>  -1.42296432E-02 </RMSE>
+ <CORR>  -2.76170883E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10113 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         159 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.406030387     </BIAS>
+ <RMSE>  -1.31697115E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10113 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         159 </NUM>
+ <MEAN>  -1.00664628E+21 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>  0.580405891     </BIAS>
+ <RMSE>  -1.36612253E-02 </RMSE>
+ <CORR> -0.335220337     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10113 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         159 </NUM>
+ <MEAN>   4.56234754E-41 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>  0.271632373     </BIAS>
+ <RMSE>  -2.16524303E-02 </RMSE>
+ <CORR> -0.345323175     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.144444451     </MEAN_OBS>
+ <STDV_OBS>  0.246213838     </STDV_OBS>
+ <EXP>
+ <ID>       10131 </ID>
+ <NAME>Prod_Stratus</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   2.22019777E-02 </MEAN>
+ <STDV>  -2.76174751E+30 </STDV>
+ <BIAS>  0.732590437     </BIAS>
+ <RMSE>  0.570870817     </RMSE>
+ <CORR>  -2.76170883E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10131 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.741703212     </BIAS>
+ <RMSE>  0.571869671     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10131 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>  -1.00664628E+21 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>  0.673737466     </BIAS>
+ <RMSE>  0.660680354     </RMSE>
+ <CORR> -0.335220337     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10131 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   4.56234754E-41 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>  0.747728884     </BIAS>
+ <RMSE>  0.570066690     </RMSE>
+ <CORR> -0.345323175     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.66666627E-02 </MEAN_OBS>
+ <STDV_OBS>   1.36885381     </STDV_OBS>
+ <EXP>
+ <ID>       10170 </ID>
+ <NAME>Prod_Stratus</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>  0.277851403     </MEAN>
+ <STDV>  -2.76174751E+30 </STDV>
+ <BIAS>  0.628238916     </BIAS>
+ <RMSE>  0.354782939     </RMSE>
+ <CORR>  -2.76170883E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10170 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.753865719     </BIAS>
+ <RMSE>  0.202826679     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10170 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>  -1.00664628E+21 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>  0.705910206     </BIAS>
+ <RMSE>   9.09513757E-02 </RMSE>
+ <CORR> -0.335220337     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10170 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   4.56234754E-41 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>   1.32830834     </BIAS>
+ <RMSE>  0.243376076     </RMSE>
+ <CORR> -0.345323175     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.162962943     </MEAN_OBS>
+ <STDV_OBS>  0.528580129     </STDV_OBS>
+ <EXP>
+ <ID>       10253 </ID>
+ <NAME>Prod_Stratus</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>  0.127179414     </MEAN>
+ <STDV>  -2.76174751E+30 </STDV>
+ <BIAS>   1.90815711     </BIAS>
+ <RMSE>  -1.53392237E-02 </RMSE>
+ <CORR>  -2.76170883E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10253 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.58286178     </BIAS>
+ <RMSE>  -1.51547715E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10253 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>  -1.00664628E+21 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>   2.17137146     </BIAS>
+ <RMSE>  0.718102217     </RMSE>
+ <CORR> -0.335220337     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10253 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   4.56234754E-41 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>   1.15535140     </BIAS>
+ <RMSE>   9.28705633E-02 </RMSE>
+ <CORR> -0.345323175     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.127777785     </MEAN_OBS>
+ <STDV_OBS>   2.98646712     </STDV_OBS>
+ <EXP>
+ <ID>       10264 </ID>
+ <NAME>Prod_Stratus</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>  0.523824871     </MEAN>
+ <STDV>  -2.76174751E+30 </STDV>
+ <BIAS>   2.51668048     </BIAS>
+ <RMSE>  0.128042847     </RMSE>
+ <CORR>  -2.76170883E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10264 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.55178952     </BIAS>
+ <RMSE>   7.87112564E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10264 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>  -1.00664628E+21 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>   1.83041322     </BIAS>
+ <RMSE>   8.30757022E-02 </RMSE>
+ <CORR> -0.335220337     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10264 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   4.56234754E-41 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>   3.00932002     </BIAS>
+ <RMSE>   4.41287532E-02 </RMSE>
+ <CORR> -0.345323175     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.98765351E-02 </MEAN_OBS>
+ <STDV_OBS>  0.119464681     </STDV_OBS>
+ <EXP>
+ <ID>       10291 </ID>
+ <NAME>Prod_Stratus</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   2.62977462E-02 </MEAN>
+ <STDV>  -2.76174751E+30 </STDV>
+ <BIAS>  0.297156602     </BIAS>
+ <RMSE>   4.03862707E-02 </RMSE>
+ <CORR>  -2.76170883E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10291 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.230289996     </BIAS>
+ <RMSE>  0.164094269     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10291 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>  -1.00664628E+21 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>   1.61786878     </BIAS>
+ <RMSE>   9.43329260E-02 </RMSE>
+ <CORR> -0.335220337     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10291 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   4.56234754E-41 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>  0.216776326     </BIAS>
+ <RMSE>  0.348242342     </RMSE>
+ <CORR> -0.345323175     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   7.90123492E-02 </MEAN_OBS>
+ <STDV_OBS>  0.443793446     </STDV_OBS>
+ <EXP>
+ <ID>       10315 </ID>
+ <NAME>Prod_Stratus</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   6.23764768E-02 </MEAN>
+ <STDV>  -2.76174751E+30 </STDV>
+ <BIAS>  0.789955020     </BIAS>
+ <RMSE>  0.250310600     </RMSE>
+ <CORR>  -2.76170883E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10315 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.390540153     </BIAS>
+ <RMSE>  0.952986300     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10315 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>  -1.00664628E+21 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>   1.16750681     </BIAS>
+ <RMSE>  0.102928720     </RMSE>
+ <CORR> -0.335220337     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10315 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   4.56234754E-41 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>  0.860560715     </BIAS>
+ <RMSE>  0.132416487     </RMSE>
+ <CORR> -0.345323175     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.384251922     </MEAN_OBS>
+ <STDV_OBS>   3.91135216     </STDV_OBS>
+ <EXP>
+ <ID>       10384 </ID>
+ <NAME>Prod_Stratus</NAME>
+ <NUM>         127 </NUM>
+ <MEAN>  0.420955986     </MEAN>
+ <STDV>  -2.76174751E+30 </STDV>
+ <BIAS>   2.69672680     </BIAS>
+ <RMSE>  -4.31845635E-02 </RMSE>
+ <CORR>  -2.76170883E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10384 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         127 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.76364732     </BIAS>
+ <RMSE>  -1.79145001E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10384 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         127 </NUM>
+ <MEAN>  -1.00664628E+21 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>   1.72711611     </BIAS>
+ <RMSE>   2.58305706E-02 </RMSE>
+ <CORR> -0.335220337     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10384 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         127 </NUM>
+ <MEAN>   4.56234754E-41 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>   4.15895510     </BIAS>
+ <RMSE>   2.03024466E-02 </RMSE>
+ <CORR> -0.345323175     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   8.64197593E-03 </MEAN_OBS>
+ <STDV_OBS>  0.101908572     </STDV_OBS>
+ <EXP>
+ <ID>       10410 </ID>
+ <NAME>Prod_Stratus</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   1.50015857E-02 </MEAN>
+ <STDV>  -2.76174751E+30 </STDV>
+ <BIAS>   5.27066328E-02 </BIAS>
+ <RMSE>  0.368752360     </RMSE>
+ <CORR>  -2.76170883E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10410 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   5.12264483E-02 </BIAS>
+ <RMSE>  0.407572985     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10410 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>  -1.00664628E+21 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>  0.161565378     </BIAS>
+ <RMSE>  0.110597171     </RMSE>
+ <CORR> -0.335220337     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10410 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   4.56234754E-41 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>   8.86065289E-02 </BIAS>
+ <RMSE>  0.492688835     </RMSE>
+ <CORR> -0.345323175     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.55555569E-03 </MEAN_OBS>
+ <STDV_OBS>  0.772445500     </STDV_OBS>
+ <EXP>
+ <ID>       10430 </ID>
+ <NAME>Prod_Stratus</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   6.82441816E-02 </MEAN>
+ <STDV>  -2.76174751E+30 </STDV>
+ <BIAS>  0.103438355     </BIAS>
+ <RMSE>  -2.42360234E-02 </RMSE>
+ <CORR>  -2.76170883E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10430 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.934555948     </BIAS>
+ <RMSE>  -1.42616443E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10430 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>  -1.00664628E+21 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>  0.245427042     </BIAS>
+ <RMSE>  -2.04582177E-02 </RMSE>
+ <CORR> -0.335220337     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10430 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   4.56234754E-41 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>  0.771610618     </BIAS>
+ <RMSE>  -1.21731907E-02 </RMSE>
+ <CORR> -0.345323175     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   7.28395060E-02 </MEAN_OBS>
+ <STDV_OBS>   1.94407594     </STDV_OBS>
+ <EXP>
+ <ID>       10453 </ID>
+ <NAME>Prod_Stratus</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>  0.262553871     </MEAN>
+ <STDV>  -2.76174751E+30 </STDV>
+ <BIAS>   1.01506329     </BIAS>
+ <RMSE>  0.232801244     </RMSE>
+ <CORR>  -2.76170883E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10453 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.757182717     </BIAS>
+ <RMSE>  0.309629768     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10453 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>  -1.00664628E+21 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>   1.24747419     </BIAS>
+ <RMSE>  0.327807158     </RMSE>
+ <CORR> -0.335220337     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10453 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   4.56234754E-41 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>   1.91990566     </BIAS>
+ <RMSE>  0.165743053     </RMSE>
+ <CORR> -0.345323175     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.451851875     </MEAN_OBS>
+ <STDV_OBS>   2.46592140     </STDV_OBS>
+ <EXP>
+ <ID>       10496 </ID>
+ <NAME>Prod_Stratus</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>  0.348632514     </MEAN>
+ <STDV>  -2.76174751E+30 </STDV>
+ <BIAS>   2.58024883     </BIAS>
+ <RMSE>  0.303355694     </RMSE>
+ <CORR>  -2.76170883E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10496 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.68143797     </BIAS>
+ <RMSE>  0.487765491     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10496 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>  -1.00664628E+21 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>   1.92330766     </BIAS>
+ <RMSE>  0.313677281     </RMSE>
+ <CORR> -0.335220337     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10496 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   4.56234754E-41 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>   3.07025099     </BIAS>
+ <RMSE>   4.68236841E-02 </RMSE>
+ <CORR> -0.345323175     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.115094334     </MEAN_OBS>
+ <STDV_OBS>   7.29859248E-02 </STDV_OBS>
+ <EXP>
+ <ID>       10022 </ID>
+ <NAME>Prod_Stratus</NAME>
+ <NUM>         159 </NUM>
+ <MEAN>   8.50960519E-03 </MEAN>
+ <STDV>  -2.76174751E+30 </STDV>
+ <BIAS>  0.831504881     </BIAS>
+ <RMSE>  -2.32349131E-02 </RMSE>
+ <CORR>  -2.76170883E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10022 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         159 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.830108225     </BIAS>
+ <RMSE>   3.30381677E-03 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10022 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         159 </NUM>
+ <MEAN>  -1.00664628E+21 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>  0.830032587     </BIAS>
+ <RMSE>   5.90315787E-03 </RMSE>
+ <CORR> -0.335220337     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10022 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         159 </NUM>
+ <MEAN>   4.56234754E-41 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>  0.810719788     </BIAS>
+ <RMSE>  0.305174470     </RMSE>
+ <CORR> -0.345323175     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.64150929E-02 </MEAN_OBS>
+ <STDV_OBS>  0.916463614     </STDV_OBS>
+ <EXP>
+ <ID>       10028 </ID>
+ <NAME>Prod_Stratus</NAME>
+ <NUM>         159 </NUM>
+ <MEAN>   7.32050762E-02 </MEAN>
+ <STDV>  -2.76174751E+30 </STDV>
+ <BIAS>  0.775272846     </BIAS>
+ <RMSE>  0.565079212     </RMSE>
+ <CORR>  -2.76170883E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10028 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         159 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.813738167     </BIAS>
+ <RMSE>  0.555756569     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10028 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         159 </NUM>
+ <MEAN>  -1.00664628E+21 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>  0.466442704     </BIAS>
+ <RMSE>  0.564944088     </RMSE>
+ <CORR> -0.335220337     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10028 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         159 </NUM>
+ <MEAN>   4.56234754E-41 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>  0.831431329     </BIAS>
+ <RMSE>  0.565762222     </RMSE>
+ <CORR> -0.345323175     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.77777817E-02 </MEAN_OBS>
+ <STDV_OBS>  0.479630709     </STDV_OBS>
+ <EXP>
+ <ID>       10042 </ID>
+ <NAME>Prod_Stratus</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   4.79385518E-02 </MEAN>
+ <STDV>  -2.76174751E+30 </STDV>
+ <BIAS>  0.136384666     </BIAS>
+ <RMSE>  0.690196633     </RMSE>
+ <CORR>  -2.76170883E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10042 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.112195313     </BIAS>
+ <RMSE>  0.786259472     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10042 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>  -1.00664628E+21 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>  0.145156011     </BIAS>
+ <RMSE>  0.558100939     </RMSE>
+ <CORR> -0.335220337     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10042 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   4.56234754E-41 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>  0.390619367     </BIAS>
+ <RMSE>  0.652574658     </RMSE>
+ <CORR> -0.345323175     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.361111194     </MEAN_OBS>
+ <STDV_OBS>   9.22023281E-02 </STDV_OBS>
+ <EXP>
+ <ID>       10093 </ID>
+ <NAME>Prod_Stratus</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   2.11419407E-02 </MEAN>
+ <STDV>  -2.76174751E+30 </STDV>
+ <BIAS>   1.63911140     </BIAS>
+ <RMSE>   6.53949082E-02 </RMSE>
+ <CORR>  -2.76170883E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10093 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.59911370     </BIAS>
+ <RMSE>  -2.75639538E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10093 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>  -1.00664628E+21 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>   1.54339921     </BIAS>
+ <RMSE>  -1.22009218E-02 </RMSE>
+ <CORR> -0.335220337     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10093 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   4.56234754E-41 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>   1.51105261     </BIAS>
+ <RMSE>   2.05051098E-02 </RMSE>
+ <CORR> -0.345323175     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.39506119E-02 </MEAN_OBS>
+ <STDV_OBS>  0.597741723     </STDV_OBS>
+ <EXP>
+ <ID>       10097 </ID>
+ <NAME>Prod_Stratus</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>  0.117754139     </MEAN>
+ <STDV>  -2.76174751E+30 </STDV>
+ <BIAS>  0.187658474     </BIAS>
+ <RMSE>  0.319162101     </RMSE>
+ <CORR>  -2.76170883E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10097 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.339359879     </BIAS>
+ <RMSE>  0.359703600     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10097 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>  -1.00664628E+21 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>  0.737871349     </BIAS>
+ <RMSE>  -2.16156244E-02 </RMSE>
+ <CORR> -0.335220337     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10097 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   4.56234754E-41 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>  0.580051661     </BIAS>
+ <RMSE>  0.230252028     </RMSE>
+ <CORR> -0.345323175     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.88679248E-03 </MEAN_OBS>
+ <STDV_OBS>   2.24334318E-02 </STDV_OBS>
+ <EXP>
+ <ID>       10129 </ID>
+ <NAME>Prod_Stratus</NAME>
+ <NUM>         159 </NUM>
+ <MEAN>   3.51623842E-03 </MEAN>
+ <STDV>  -2.76174751E+30 </STDV>
+ <BIAS>   9.35609490E-02 </BIAS>
+ <RMSE>  0.397756249     </RMSE>
+ <CORR>  -2.76170883E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10129 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         159 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.148084685     </BIAS>
+ <RMSE>  0.214046463     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10129 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         159 </NUM>
+ <MEAN>  -1.00664628E+21 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>  0.380656481     </BIAS>
+ <RMSE>   2.67154351E-02 </RMSE>
+ <CORR> -0.335220337     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10129 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         159 </NUM>
+ <MEAN>   4.56234754E-41 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>   2.22665444E-02 </BIAS>
+ <RMSE>  0.311265141     </RMSE>
+ <CORR> -0.345323175     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.85185194E-02 </MEAN_OBS>
+ <STDV_OBS>  0.532884777     </STDV_OBS>
+ <EXP>
+ <ID>       10130 </ID>
+ <NAME>Prod_Stratus</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   6.37323335E-02 </MEAN>
+ <STDV>  -2.76174751E+30 </STDV>
+ <BIAS>  0.426146120     </BIAS>
+ <RMSE>  0.572253823     </RMSE>
+ <CORR>  -2.76170883E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10130 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.780587554     </BIAS>
+ <RMSE>  0.577924430     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10130 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>  -1.00664628E+21 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>  0.411415100     </BIAS>
+ <RMSE>  0.567500532     </RMSE>
+ <CORR> -0.335220337     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10130 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   4.56234754E-41 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>  0.343707979     </BIAS>
+ <RMSE>  0.779080391     </RMSE>
+ <CORR> -0.345323175     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.51572323E-03 </MEAN_OBS>
+ <STDV_OBS>  0.155946821     </STDV_OBS>
+ <EXP>
+ <ID>       10139 </ID>
+ <NAME>Prod_Stratus</NAME>
+ <NUM>         159 </NUM>
+ <MEAN>   1.93988364E-02 </MEAN>
+ <STDV>  -2.76174751E+30 </STDV>
+ <BIAS>  0.146492407     </BIAS>
+ <RMSE>   7.74250254E-02 </RMSE>
+ <CORR>  -2.76170883E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10139 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         159 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.60339249E-02 </BIAS>
+ <RMSE>  0.137302369     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10139 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         159 </NUM>
+ <MEAN>  -1.00664628E+21 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>  0.135456726     </BIAS>
+ <RMSE>  0.310839117     </RMSE>
+ <CORR> -0.335220337     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10139 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         159 </NUM>
+ <MEAN>   4.56234754E-41 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>  0.152254567     </BIAS>
+ <RMSE>  0.252672076     </RMSE>
+ <CORR> -0.345323175     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.185185194     </MEAN_OBS>
+ <STDV_OBS>  0.100981861     </STDV_OBS>
+ <EXP>
+ <ID>       10142 </ID>
+ <NAME>Prod_Stratus</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   1.27617400E-02 </MEAN>
+ <STDV>  -2.76174751E+30 </STDV>
+ <BIAS>   1.44013202     </BIAS>
+ <RMSE>  -6.17047539E-03 </RMSE>
+ <CORR>  -2.76170883E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10142 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.30334473     </BIAS>
+ <RMSE>  0.322754711     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10142 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>  -1.00664628E+21 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>   1.15277159     </BIAS>
+ <RMSE>  0.571749151     </RMSE>
+ <CORR> -0.335220337     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10142 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   4.56234754E-41 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>   1.29131186     </BIAS>
+ <RMSE>  0.590210199     </RMSE>
+ <CORR> -0.345323175     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.88888866E-02 </MEAN_OBS>
+ <STDV_OBS>  0.831217825     </STDV_OBS>
+ <EXP>
+ <ID>       10146 </ID>
+ <NAME>Prod_Stratus</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   7.56778717E-02 </MEAN>
+ <STDV>  -2.76174751E+30 </STDV>
+ <BIAS>  0.251009315     </BIAS>
+ <RMSE>  0.506495178     </RMSE>
+ <CORR>  -2.76170883E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10146 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.233011112     </BIAS>
+ <RMSE>  0.504206836     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10146 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>  -1.00664628E+21 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>  0.225534141     </BIAS>
+ <RMSE>  0.548971534     </RMSE>
+ <CORR> -0.335220337     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10146 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   4.56234754E-41 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>  0.849544287     </BIAS>
+ <RMSE>   8.42940211E-02 </RMSE>
+ <CORR> -0.345323175     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.126543224     </MEAN_OBS>
+ <STDV_OBS>  0.510026693     </STDV_OBS>
+ <EXP>
+ <ID>       10150 </ID>
+ <NAME>Prod_Stratus</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   5.42715751E-02 </MEAN>
+ <STDV>  -2.76174751E+30 </STDV>
+ <BIAS>  0.861445069     </BIAS>
+ <RMSE>  0.318879962     </RMSE>
+ <CORR>  -2.76170883E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10150 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.992185295     </BIAS>
+ <RMSE>  -2.67364760E-03 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10150 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>  -1.00664628E+21 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>  0.903234720     </BIAS>
+ <RMSE>  -2.22790483E-02 </RMSE>
+ <CORR> -0.335220337     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10150 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   4.56234754E-41 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>   1.04258275     </BIAS>
+ <RMSE>  -1.40773375E-02 </RMSE>
+ <CORR> -0.345323175     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.224074051     </MEAN_OBS>
+ <STDV_OBS>  0.379762322     </STDV_OBS>
+ <EXP>
+ <ID>       10152 </ID>
+ <NAME>Prod_Stratus</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   5.86300716E-02 </MEAN>
+ <STDV>  -2.76174751E+30 </STDV>
+ <BIAS>   1.13437295     </BIAS>
+ <RMSE>  0.424214154     </RMSE>
+ <CORR>  -2.76170883E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10152 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.19837296     </BIAS>
+ <RMSE>  0.155723348     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10152 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>  -1.00664628E+21 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>   1.08105099     </BIAS>
+ <RMSE>  0.454601467     </RMSE>
+ <CORR> -0.335220337     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10152 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   4.56234754E-41 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>   1.07549059     </BIAS>
+ <RMSE>  0.497061014     </RMSE>
+ <CORR> -0.345323175     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.144444436     </MEAN_OBS>
+ <STDV_OBS>   2.35462189     </STDV_OBS>
+ <EXP>
+ <ID>       10156 </ID>
+ <NAME>Prod_Stratus</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>  0.245102257     </MEAN>
+ <STDV>  -2.76174751E+30 </STDV>
+ <BIAS>  0.894296229     </BIAS>
+ <RMSE>   6.21927008E-02 </RMSE>
+ <CORR>  -2.76170883E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10156 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.30828607     </BIAS>
+ <RMSE>  -1.36270290E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10156 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>  -1.00664628E+21 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>   1.16760409     </BIAS>
+ <RMSE>   9.76756401E-03 </RMSE>
+ <CORR> -0.335220337     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10156 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   4.56234754E-41 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>   2.47281861     </BIAS>
+ <RMSE>   9.04950127E-03 </RMSE>
+ <CORR> -0.345323175     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.77777817E-02 </MEAN_OBS>
+ <STDV_OBS>  0.753290713     </STDV_OBS>
+ <EXP>
+ <ID>       10161 </ID>
+ <NAME>Prod_Stratus</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>  0.138204008     </MEAN>
+ <STDV>  -2.76174751E+30 </STDV>
+ <BIAS>  0.569177449     </BIAS>
+ <RMSE>  0.482099533     </RMSE>
+ <CORR>  -2.76170883E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10161 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.836341202     </BIAS>
+ <RMSE>  0.500600159     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10161 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>  -1.00664628E+21 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>  0.799628258     </BIAS>
+ <RMSE>  0.443459928     </RMSE>
+ <CORR> -0.335220337     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10161 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   4.56234754E-41 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>  0.727076054     </BIAS>
+ <RMSE>  0.328214735     </RMSE>
+ <CORR> -0.345323175     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.112962984     </MEAN_OBS>
+ <STDV_OBS>   2.09467745     </STDV_OBS>
+ <EXP>
+ <ID>       10168 </ID>
+ <NAME>Prod_Stratus</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>  0.356156051     </MEAN>
+ <STDV>  -2.76174751E+30 </STDV>
+ <BIAS>   3.09149694     </BIAS>
+ <RMSE>  0.164927453     </RMSE>
+ <CORR>  -2.76170883E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10168 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.30781245     </BIAS>
+ <RMSE>  0.206810251     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10168 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>  -1.00664628E+21 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>   1.08557439     </BIAS>
+ <RMSE>  0.333284378     </RMSE>
+ <CORR> -0.335220337     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10168 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   4.56234754E-41 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>   1.99356961     </BIAS>
+ <RMSE>  0.303224415     </RMSE>
+ <CORR> -0.345323175     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.209876493     </MEAN_OBS>
+ <STDV_OBS>  0.613440394     </STDV_OBS>
+ <EXP>
+ <ID>       10180 </ID>
+ <NAME>Prod_Stratus</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>  0.144543692     </MEAN>
+ <STDV>  -2.76174751E+30 </STDV>
+ <BIAS>  0.931379259     </BIAS>
+ <RMSE>   9.36947837E-02 </RMSE>
+ <CORR>  -2.76170883E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10180 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.945765853     </BIAS>
+ <RMSE>  0.125529096     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10180 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>  -1.00664628E+21 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>  0.924304545     </BIAS>
+ <RMSE>   5.51878624E-02 </RMSE>
+ <CORR> -0.335220337     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10180 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   4.56234754E-41 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>  0.918265641     </BIAS>
+ <RMSE>  0.247425571     </RMSE>
+ <CORR> -0.345323175     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.124074079     </MEAN_OBS>
+ <STDV_OBS>  0.386483997     </STDV_OBS>
+ <EXP>
+ <ID>       10193 </ID>
+ <NAME>Prod_Stratus</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   7.60339722E-02 </MEAN>
+ <STDV>  -2.76174751E+30 </STDV>
+ <BIAS>  0.754087090     </BIAS>
+ <RMSE>   5.51139489E-02 </RMSE>
+ <CORR>  -2.76170883E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10193 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.995943487     </BIAS>
+ <RMSE>   1.49315894E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10193 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>  -1.00664628E+21 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>  0.745965421     </BIAS>
+ <RMSE>   5.01184054E-02 </RMSE>
+ <CORR> -0.335220337     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10193 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   4.56234754E-41 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>  0.664485633     </BIAS>
+ <RMSE>   7.37808496E-02 </RMSE>
+ <CORR> -0.345323175     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.93827183E-03 </MEAN_OBS>
+ <STDV_OBS>   1.47026026     </STDV_OBS>
+ <EXP>
+ <ID>       10210 </ID>
+ <NAME>Prod_Stratus</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>  0.119566128     </MEAN>
+ <STDV>  -2.76174751E+30 </STDV>
+ <BIAS>  0.790292263     </BIAS>
+ <RMSE>  -1.06013333E-02 </RMSE>
+ <CORR>  -2.76170883E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10210 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.841120064     </BIAS>
+ <RMSE>  -8.95033963E-03 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10210 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>  -1.00664628E+21 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>  0.116458587     </BIAS>
+ <RMSE>  -1.67658981E-02 </RMSE>
+ <CORR> -0.335220337     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10210 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   4.56234754E-41 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>   1.46667862     </BIAS>
+ <RMSE>  -9.25891474E-03 </RMSE>
+ <CORR> -0.345323175     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.55555569E-03 </MEAN_OBS>
+ <STDV_OBS>  0.855855405     </STDV_OBS>
+ <EXP>
+ <ID>       10235 </ID>
+ <NAME>Prod_Stratus</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   7.99336731E-02 </MEAN>
+ <STDV>  -2.76174751E+30 </STDV>
+ <BIAS>   2.84816957     </BIAS>
+ <RMSE>  0.306410700     </RMSE>
+ <CORR>  -2.76170883E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10235 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.291984648     </BIAS>
+ <RMSE>  0.119734101     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10235 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>  -1.00664628E+21 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>   1.08440900     </BIAS>
+ <RMSE>  0.574567258     </RMSE>
+ <CORR> -0.335220337     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10235 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   4.56234754E-41 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>  0.854454875     </BIAS>
+ <RMSE>  -7.10402429E-03 </RMSE>
+ <CORR> -0.345323175     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.128301889     </MEAN_OBS>
+ <STDV_OBS>  0.158388719     </STDV_OBS>
+ <EXP>
+ <ID>       10249 </ID>
+ <NAME>Prod_Stratus</NAME>
+ <NUM>         159 </NUM>
+ <MEAN>   2.62293480E-02 </MEAN>
+ <STDV>  -2.76174751E+30 </STDV>
+ <BIAS>  0.725713611     </BIAS>
+ <RMSE>  0.106575668     </RMSE>
+ <CORR>  -2.76170883E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10249 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         159 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.738147676     </BIAS>
+ <RMSE>   7.63544813E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10249 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         159 </NUM>
+ <MEAN>  -1.00664628E+21 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>  0.722251177     </BIAS>
+ <RMSE>  0.144520774     </RMSE>
+ <CORR> -0.335220337     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10249 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         159 </NUM>
+ <MEAN>   4.56234754E-41 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>  0.681740105     </BIAS>
+ <RMSE>  0.402488261     </RMSE>
+ <CORR> -0.345323175     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.04938280E-02 </MEAN_OBS>
+ <STDV_OBS>   3.00317049     </STDV_OBS>
+ <EXP>
+ <ID>       10261 </ID>
+ <NAME>Prod_Stratus</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>  0.553834081     </MEAN>
+ <STDV>  -2.76174751E+30 </STDV>
+ <BIAS>   1.50129259     </BIAS>
+ <RMSE>  0.856199443     </RMSE>
+ <CORR>  -2.76170883E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10261 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.74434781     </BIAS>
+ <RMSE>  0.711116791     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10261 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>  -1.00664628E+21 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>   2.83415794     </BIAS>
+ <RMSE>  0.139878735     </RMSE>
+ <CORR> -0.335220337     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10261 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   4.56234754E-41 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>   2.93434143     </BIAS>
+ <RMSE>  0.865443408     </RMSE>
+ <CORR> -0.345323175     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.253703713     </MEAN_OBS>
+ <STDV_OBS>  0.764870048     </STDV_OBS>
+ <EXP>
+ <ID>       10267 </ID>
+ <NAME>Prod_Stratus</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>  0.175215274     </MEAN>
+ <STDV>  -2.76174751E+30 </STDV>
+ <BIAS>   1.44656610     </BIAS>
+ <RMSE>   7.28003308E-02 </RMSE>
+ <CORR>  -2.76170883E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10267 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.31617975     </BIAS>
+ <RMSE>   2.98959091E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10267 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>  -1.00664628E+21 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>   2.25100875     </BIAS>
+ <RMSE>  -5.56648383E-03 </RMSE>
+ <CORR> -0.335220337     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10267 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   4.56234754E-41 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>  0.989384651     </BIAS>
+ <RMSE>  0.325849652     </RMSE>
+ <CORR> -0.345323175     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.322641432     </MEAN_OBS>
+ <STDV_OBS>   7.44941756E-02 </STDV_OBS>
+ <EXP>
+ <ID>       10281 </ID>
+ <NAME>Prod_Stratus</NAME>
+ <NUM>         159 </NUM>
+ <MEAN>   1.78207271E-02 </MEAN>
+ <STDV>  -2.76174751E+30 </STDV>
+ <BIAS>   1.68791366     </BIAS>
+ <RMSE>  -1.36888120E-02 </RMSE>
+ <CORR>  -2.76170883E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10281 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         159 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.31498969     </BIAS>
+ <RMSE>   2.30233185E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10281 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         159 </NUM>
+ <MEAN>  -1.00664628E+21 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>   1.24678338     </BIAS>
+ <RMSE>  0.249385491     </RMSE>
+ <CORR> -0.335220337     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10281 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         159 </NUM>
+ <MEAN>   4.56234754E-41 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>   1.25381207     </BIAS>
+ <RMSE>  0.457057565     </RMSE>
+ <CORR> -0.345323175     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   8.16326365E-02 </MEAN_OBS>
+ <STDV_OBS>  0.754483104     </STDV_OBS>
+ <EXP>
+ <ID>       10282 </ID>
+ <NAME>Prod_Stratus</NAME>
+ <NUM>         147 </NUM>
+ <MEAN>  0.154798105     </MEAN>
+ <STDV>  -2.76174751E+30 </STDV>
+ <BIAS>   1.67373693     </BIAS>
+ <RMSE>   2.93324478E-02 </RMSE>
+ <CORR>  -2.76170883E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10282 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         147 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.884572685     </BIAS>
+ <RMSE>   6.51841834E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10282 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         147 </NUM>
+ <MEAN>  -1.00664628E+21 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>   1.67648292     </BIAS>
+ <RMSE>   8.42297226E-02 </RMSE>
+ <CORR> -0.335220337     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10282 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         147 </NUM>
+ <MEAN>   4.56234754E-41 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>  0.785675883     </BIAS>
+ <RMSE>  0.143049240     </RMSE>
+ <CORR> -0.345323175     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.88235296E-02 </MEAN_OBS>
+ <STDV_OBS>  0.251158088     </STDV_OBS>
+ <EXP>
+ <ID>       10289 </ID>
+ <NAME>Prod_Stratus</NAME>
+ <NUM>         153 </NUM>
+ <MEAN>   4.85005789E-02 </MEAN>
+ <STDV>  -2.76174751E+30 </STDV>
+ <BIAS>  0.188961670     </BIAS>
+ <RMSE>  0.465336710     </RMSE>
+ <CORR>  -2.76170883E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10289 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         153 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.199137807     </BIAS>
+ <RMSE>  0.383581519     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10289 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         153 </NUM>
+ <MEAN>  -1.00664628E+21 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>  0.715794086     </BIAS>
+ <RMSE>   8.15313980E-02 </RMSE>
+ <CORR> -0.335220337     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10289 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         153 </NUM>
+ <MEAN>   4.56234754E-41 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>  0.326699287     </BIAS>
+ <RMSE>   1.39901387E-02 </RMSE>
+ <CORR> -0.345323175     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.93827183E-03 </MEAN_OBS>
+ <STDV_OBS>  0.227080360     </STDV_OBS>
+ <EXP>
+ <ID>       10309 </ID>
+ <NAME>Prod_Stratus</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   3.32419612E-02 </MEAN>
+ <STDV>  -2.76174751E+30 </STDV>
+ <BIAS>  0.930639923     </BIAS>
+ <RMSE>   7.13989546E-04 </RMSE>
+ <CORR>  -2.76170883E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10309 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.435386866     </BIAS>
+ <RMSE>  0.134042427     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10309 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>  -1.00664628E+21 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>  0.259785742     </BIAS>
+ <RMSE>  0.696944356     </RMSE>
+ <CORR> -0.335220337     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10309 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   4.56234754E-41 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>  0.206033111     </BIAS>
+ <RMSE>  0.734517097     </RMSE>
+ <CORR> -0.345323175     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.91358011E-02 </MEAN_OBS>
+ <STDV_OBS>   1.26385915     </STDV_OBS>
+ <EXP>
+ <ID>       10312 </ID>
+ <NAME>Prod_Stratus</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>  0.185528696     </MEAN>
+ <STDV>  -2.76174751E+30 </STDV>
+ <BIAS>   1.48987055     </BIAS>
+ <RMSE>  0.986307025     </RMSE>
+ <CORR>  -2.76170883E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10312 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.07864988     </BIAS>
+ <RMSE>  0.977038026     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10312 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>  -1.00664628E+21 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>  0.446689963     </BIAS>
+ <RMSE>  0.972406983     </RMSE>
+ <CORR> -0.335220337     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10312 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   4.56234754E-41 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>   1.24340081     </BIAS>
+ <RMSE>  0.164075211     </RMSE>
+ <CORR> -0.345323175     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.85185194E-03 </MEAN_OBS>
+ <STDV_OBS>   8.56192037E-02 </STDV_OBS>
+ <EXP>
+ <ID>       10325 </ID>
+ <NAME>Prod_Stratus</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   6.79347012E-03 </MEAN>
+ <STDV>  -2.76174751E+30 </STDV>
+ <BIAS>  0.564914584     </BIAS>
+ <RMSE>  -1.46633312E-02 </RMSE>
+ <CORR>  -2.76170883E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10325 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.737810731     </BIAS>
+ <RMSE>  -1.04711652E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10325 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>  -1.00664628E+21 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>  0.707378685     </BIAS>
+ <RMSE>  0.563858688     </RMSE>
+ <CORR> -0.335220337     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10325 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   4.56234754E-41 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>   8.65442231E-02 </BIAS>
+ <RMSE>  -9.88498796E-03 </RMSE>
+ <CORR> -0.345323175     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>  0.959870696     </STDV_OBS>
+ <EXP>
+ <ID>       10348 </ID>
+ <NAME>Prod_Stratus</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>  0.179731280     </MEAN>
+ <STDV>  -2.76174751E+30 </STDV>
+ <BIAS>  0.238204718     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -2.76170883E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10348 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.514311075     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10348 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>  -1.00664628E+21 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>   1.39287937     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR> -0.335220337     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10348 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   4.56234754E-41 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>  0.956903577     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR> -0.345323175     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.03703698E-02 </MEAN_OBS>
+ <STDV_OBS>   3.44054508     </STDV_OBS>
+ <EXP>
+ <ID>       10359 </ID>
+ <NAME>Prod_Stratus</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>  0.408284992     </MEAN>
+ <STDV>  -2.76174751E+30 </STDV>
+ <BIAS>   1.86320889     </BIAS>
+ <RMSE>  0.854554355     </RMSE>
+ <CORR>  -2.76170883E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10359 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.71717954     </BIAS>
+ <RMSE>  0.746269345     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10359 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>  -1.00664628E+21 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>  0.592347741     </BIAS>
+ <RMSE>  0.655208647     </RMSE>
+ <CORR> -0.335220337     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10359 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   4.56234754E-41 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>   3.42244887     </BIAS>
+ <RMSE>   8.17948505E-02 </RMSE>
+ <CORR> -0.345323175     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.432098806     </MEAN_OBS>
+ <STDV_OBS>  0.323239863     </STDV_OBS>
+ <EXP>
+ <ID>       10368 </ID>
+ <NAME>Prod_Stratus</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   7.10475221E-02 </MEAN>
+ <STDV>  -2.76174751E+30 </STDV>
+ <BIAS>   1.66298342     </BIAS>
+ <RMSE>  0.366788298     </RMSE>
+ <CORR>  -2.76170883E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10368 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.22387528     </BIAS>
+ <RMSE>  0.227788493     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10368 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>  -1.00664628E+21 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>   1.73618019     </BIAS>
+ <RMSE>  0.182690606     </RMSE>
+ <CORR> -0.335220337     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10368 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   4.56234754E-41 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>   1.62242937     </BIAS>
+ <RMSE>  0.494959921     </RMSE>
+ <CORR> -0.345323175     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.162962958     </MEAN_OBS>
+ <STDV_OBS>  0.569438994     </STDV_OBS>
+ <EXP>
+ <ID>       10396 </ID>
+ <NAME>Prod_Stratus</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>  0.144944891     </MEAN>
+ <STDV>  -2.76174751E+30 </STDV>
+ <BIAS>  0.604359806     </BIAS>
+ <RMSE>  0.115993388     </RMSE>
+ <CORR>  -2.76170883E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10396 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.545563877     </BIAS>
+ <RMSE>  0.300563186     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10396 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>  -1.00664628E+21 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>  0.667602003     </BIAS>
+ <RMSE>  0.137455627     </RMSE>
+ <CORR> -0.335220337     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10396 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   4.56234754E-41 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>  0.617780507     </BIAS>
+ <RMSE>  0.397590309     </RMSE>
+ <CORR> -0.345323175     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.91358011E-02 </MEAN_OBS>
+ <STDV_OBS>  0.298486501     </STDV_OBS>
+ <EXP>
+ <ID>       10424 </ID>
+ <NAME>Prod_Stratus</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   3.98248583E-02 </MEAN>
+ <STDV>  -2.76174751E+30 </STDV>
+ <BIAS>   1.48920548     </BIAS>
+ <RMSE>   7.41888359E-02 </RMSE>
+ <CORR>  -2.76170883E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10424 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.51786816     </BIAS>
+ <RMSE>   1.73514299E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10424 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>  -1.00664628E+21 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>  0.466816336     </BIAS>
+ <RMSE>   4.43127844E-03 </RMSE>
+ <CORR> -0.335220337     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10424 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   4.56234754E-41 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>  0.180249840     </BIAS>
+ <RMSE>  0.795906842     </RMSE>
+ <CORR> -0.345323175     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.88679248E-03 </MEAN_OBS>
+ <STDV_OBS>   1.33979442E-02 </STDV_OBS>
+ <EXP>
+ <ID>       10433 </ID>
+ <NAME>Prod_Stratus</NAME>
+ <NUM>         159 </NUM>
+ <MEAN>   1.09939987E-03 </MEAN>
+ <STDV>  -2.76174751E+30 </STDV>
+ <BIAS>  0.646410525     </BIAS>
+ <RMSE>  -1.48048298E-02 </RMSE>
+ <CORR>  -2.76170883E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10433 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         159 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.612699389     </BIAS>
+ <RMSE>  -1.56412069E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10433 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         159 </NUM>
+ <MEAN>  -1.00664628E+21 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>  0.146664724     </BIAS>
+ <RMSE>  -1.55512774E-02 </RMSE>
+ <CORR> -0.335220337     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10433 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         159 </NUM>
+ <MEAN>   4.56234754E-41 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>   1.91740412E-02 </BIAS>
+ <RMSE>  -1.14152618E-02 </RMSE>
+ <CORR> -0.345323175     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   9.25925933E-03 </MEAN_OBS>
+ <STDV_OBS>  0.790094674     </STDV_OBS>
+ <EXP>
+ <ID>       10435 </ID>
+ <NAME>Prod_Stratus</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   7.98070803E-02 </MEAN>
+ <STDV>  -2.76174751E+30 </STDV>
+ <BIAS>  0.884469688     </BIAS>
+ <RMSE>  -1.95078310E-02 </RMSE>
+ <CORR>  -2.76170883E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10435 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.954313338     </BIAS>
+ <RMSE>  -2.02683304E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10435 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>  -1.00664628E+21 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>  0.532813430     </BIAS>
+ <RMSE>  -1.79715026E-02 </RMSE>
+ <CORR> -0.335220337     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10435 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   4.56234754E-41 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>  0.791465819     </BIAS>
+ <RMSE>  -1.39177470E-02 </RMSE>
+ <CORR> -0.345323175     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.125925943     </MEAN_OBS>
+ <STDV_OBS>  0.440169543     </STDV_OBS>
+ <EXP>
+ <ID>       10442 </ID>
+ <NAME>Prod_Stratus</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   5.08231185E-02 </MEAN>
+ <STDV>  -2.76174751E+30 </STDV>
+ <BIAS>   1.16220021     </BIAS>
+ <RMSE>  0.221112132     </RMSE>
+ <CORR>  -2.76170883E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10442 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.17218637     </BIAS>
+ <RMSE>   9.18674376E-03 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10442 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>  -1.00664628E+21 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>  0.818234205     </BIAS>
+ <RMSE>  0.731907189     </RMSE>
+ <CORR> -0.335220337     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10442 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   4.56234754E-41 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>  0.694393814     </BIAS>
+ <RMSE>  0.579382241     </RMSE>
+ <CORR> -0.345323175     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   4.96219727E-04 </STDV_OBS>
+ <EXP>
+ <ID>       10444 </ID>
+ <NAME>Prod_Stratus</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   9.94642032E-05 </MEAN>
+ <STDV>  -2.76174751E+30 </STDV>
+ <BIAS>  0.258360744     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -2.76170883E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10444 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.109998100     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10444 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>  -1.00664628E+21 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>  0.533691108     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR> -0.335220337     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10444 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   4.56234754E-41 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>   4.94685781E-04 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR> -0.345323175     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.15384618E-02 </MEAN_OBS>
+ <STDV_OBS>  0.532013893     </STDV_OBS>
+ <EXP>
+ <ID>       10452 </ID>
+ <NAME>Prod_Stratus</NAME>
+ <NUM>         156 </NUM>
+ <MEAN>   8.22817162E-02 </MEAN>
+ <STDV>  -2.76174751E+30 </STDV>
+ <BIAS>  0.678268790     </BIAS>
+ <RMSE>   2.72160731E-02 </RMSE>
+ <CORR>  -2.76170883E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10452 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         156 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.696813941     </BIAS>
+ <RMSE>   4.88411412E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10452 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         156 </NUM>
+ <MEAN>  -1.00664628E+21 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>  0.598695397     </BIAS>
+ <RMSE>   5.48777096E-02 </RMSE>
+ <CORR> -0.335220337     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10452 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         156 </NUM>
+ <MEAN>   4.56234754E-41 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>  0.531834722     </BIAS>
+ <RMSE>   5.91133460E-02 </RMSE>
+ <CORR> -0.345323175     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.33333313E-02 </MEAN_OBS>
+ <STDV_OBS>  0.947690964     </STDV_OBS>
+ <EXP>
+ <ID>       10454 </ID>
+ <NAME>Prod_Stratus</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>  0.127686277     </MEAN>
+ <STDV>  -2.76174751E+30 </STDV>
+ <BIAS>  0.827239990     </BIAS>
+ <RMSE>  -2.88043804E-02 </RMSE>
+ <CORR>  -2.76170883E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10454 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.700052679     </BIAS>
+ <RMSE>  -3.22073214E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10454 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>  -1.00664628E+21 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>   2.16243744     </BIAS>
+ <RMSE>  -1.65030397E-02 </RMSE>
+ <CORR> -0.335220337     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10454 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   4.56234754E-41 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>  0.961685896     </BIAS>
+ <RMSE>  -2.64739804E-02 </RMSE>
+ <CORR> -0.345323175     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.15094346E-02 </MEAN_OBS>
+ <STDV_OBS>   5.28042540E-02 </STDV_OBS>
+ <EXP>
+ <ID>       10458 </ID>
+ <NAME>Prod_Stratus</NAME>
+ <NUM>         159 </NUM>
+ <MEAN>   7.35196518E-03 </MEAN>
+ <STDV>  -2.76174751E+30 </STDV>
+ <BIAS>  0.437488347     </BIAS>
+ <RMSE>  0.422441453     </RMSE>
+ <CORR>  -2.76170883E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10458 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         159 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.309102505     </BIAS>
+ <RMSE>  0.395441204     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10458 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         159 </NUM>
+ <MEAN>  -1.00664628E+21 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>  0.349409133     </BIAS>
+ <RMSE>  0.434824556     </RMSE>
+ <CORR> -0.335220337     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10458 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         159 </NUM>
+ <MEAN>   4.56234754E-41 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>  0.151616096     </BIAS>
+ <RMSE>  0.408895880     </RMSE>
+ <CORR> -0.345323175     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.228301898     </MEAN_OBS>
+ <STDV_OBS>  0.355023205     </STDV_OBS>
+ <EXP>
+ <ID>       10474 </ID>
+ <NAME>Prod_Stratus</NAME>
+ <NUM>         159 </NUM>
+ <MEAN>   3.76473404E-02 </MEAN>
+ <STDV>  -2.76174751E+30 </STDV>
+ <BIAS>   1.28741980     </BIAS>
+ <RMSE>  0.272660643     </RMSE>
+ <CORR>  -2.76170883E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10474 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         159 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.31104100     </BIAS>
+ <RMSE>  0.165201098     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10474 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         159 </NUM>
+ <MEAN>  -1.00664628E+21 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>   1.31725895     </BIAS>
+ <RMSE>  0.257573962     </RMSE>
+ <CORR> -0.335220337     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10474 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         159 </NUM>
+ <MEAN>   4.56234754E-41 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>   1.37487841     </BIAS>
+ <RMSE>  -1.24745890E-02 </RMSE>
+ <CORR> -0.345323175     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   8.80503058E-02 </MEAN_OBS>
+ <STDV_OBS>   6.04353845E-02 </STDV_OBS>
+ <EXP>
+ <ID>       10490 </ID>
+ <NAME>Prod_Stratus</NAME>
+ <NUM>         159 </NUM>
+ <MEAN>   1.34814745E-02 </MEAN>
+ <STDV>  -2.76174751E+30 </STDV>
+ <BIAS>   1.61455154     </BIAS>
+ <RMSE>  -2.13497374E-02 </RMSE>
+ <CORR>  -2.76170883E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10490 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         159 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.39379501     </BIAS>
+ <RMSE>  -2.09546927E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10490 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         159 </NUM>
+ <MEAN>  -1.00664628E+21 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>  0.718742847     </BIAS>
+ <RMSE>  -1.41885150E-02 </RMSE>
+ <CORR> -0.335220337     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10490 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         159 </NUM>
+ <MEAN>   4.56234754E-41 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>  0.576372325     </BIAS>
+ <RMSE>   1.85193717E-02 </RMSE>
+ <CORR> -0.345323175     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.03144646E-03 </MEAN_OBS>
+ <STDV_OBS>   1.29686734E-02 </STDV_OBS>
+ <EXP>
+ <ID>        7010 </ID>
+ <NAME>Prod_Stratus</NAME>
+ <NUM>         159 </NUM>
+ <MEAN>   2.17576721E-03 </MEAN>
+ <STDV>  -2.76174751E+30 </STDV>
+ <BIAS>   3.48462984E-02 </BIAS>
+ <RMSE>  -3.25962529E-02 </RMSE>
+ <CORR>  -2.76170883E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        7010 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         159 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.41821089E-02 </BIAS>
+ <RMSE>  -2.84568574E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        7010 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         159 </NUM>
+ <MEAN>  -1.00664628E+21 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>  0.148377910     </BIAS>
+ <RMSE>  -1.76971983E-02 </RMSE>
+ <CORR> -0.335220337     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        7010 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         159 </NUM>
+ <MEAN>   4.56234754E-41 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>   3.42052206E-02 </BIAS>
+ <RMSE>  -2.70365346E-02 </RMSE>
+ <CORR> -0.345323175     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.132704407     </MEAN_OBS>
+ <STDV_OBS>   1.71867692     </STDV_OBS>
+ <EXP>
+ <ID>       10381 </ID>
+ <NAME>Prod_Stratus</NAME>
+ <NUM>         159 </NUM>
+ <MEAN>  0.171272963     </MEAN>
+ <STDV>  -2.76174751E+30 </STDV>
+ <BIAS>   2.17264628     </BIAS>
+ <RMSE>   5.61661960E-04 </RMSE>
+ <CORR>  -2.76170883E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10381 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         159 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.99276817     </BIAS>
+ <RMSE>  -1.15132295E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10381 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         159 </NUM>
+ <MEAN>  -1.00664628E+21 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>   1.12454247     </BIAS>
+ <RMSE>   2.70723999E-02 </RMSE>
+ <CORR> -0.335220337     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10381 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         159 </NUM>
+ <MEAN>   4.56234754E-41 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>   1.96231925     </BIAS>
+ <RMSE>  -2.58752843E-03 </RMSE>
+ <CORR> -0.345323175     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   9.07407477E-02 </MEAN_OBS>
+ <STDV_OBS>  0.221903637     </STDV_OBS>
+ <EXP>
+ <ID>       10046 </ID>
+ <NAME>Prod_Stratus</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   2.65453570E-02 </MEAN>
+ <STDV>  -2.76174751E+30 </STDV>
+ <BIAS>   1.17068422     </BIAS>
+ <RMSE>  -1.81805454E-02 </RMSE>
+ <CORR>  -2.76170883E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10046 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.783729255     </BIAS>
+ <RMSE>   4.42535570E-03 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10046 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>  -1.00664628E+21 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>  0.683124602     </BIAS>
+ <RMSE>   6.14737347E-03 </RMSE>
+ <CORR> -0.335220337     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10046 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   4.56234754E-41 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>  0.684146285     </BIAS>
+ <RMSE>   5.91121241E-02 </RMSE>
+ <CORR> -0.345323175     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>  0.540454984     </STDV_OBS>
+ <EXP>
+ <ID>       10338 </ID>
+ <NAME>Prod_Stratus</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   5.49522974E-02 </MEAN>
+ <STDV>  -2.76174751E+30 </STDV>
+ <BIAS>  0.966074765     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -2.76170883E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10338 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.754787385     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10338 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>  -1.00664628E+21 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>   1.11217248     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR> -0.335220337     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10338 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   4.56234754E-41 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>  0.538784325     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR> -0.345323175     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.317901164     </MEAN_OBS>
+ <STDV_OBS>   1.06395590     </STDV_OBS>
+ <EXP>
+ <ID>        6019 </ID>
+ <NAME>Prod_Stratus</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>  0.200553700     </MEAN>
+ <STDV>  -2.76174751E+30 </STDV>
+ <BIAS>   1.29039216     </BIAS>
+ <RMSE>  0.804830372     </RMSE>
+ <CORR>  -2.76170883E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6019 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.48028612     </BIAS>
+ <RMSE>  0.694808006     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6019 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>  -1.00664628E+21 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>   1.88583243     </BIAS>
+ <RMSE>  0.620889843     </RMSE>
+ <CORR> -0.335220337     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6019 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   4.56234754E-41 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>   1.31540871     </BIAS>
+ <RMSE>  0.813103080     </RMSE>
+ <CORR> -0.345323175     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.44444381E-02 </MEAN_OBS>
+ <STDV_OBS>  0.535111606     </STDV_OBS>
+ <EXP>
+ <ID>        6031 </ID>
+ <NAME>Prod_Stratus</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   6.29493520E-02 </MEAN>
+ <STDV>  -2.76174751E+30 </STDV>
+ <BIAS>  0.252516329     </BIAS>
+ <RMSE>  0.211256027     </RMSE>
+ <CORR>  -2.76170883E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6031 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.251023114     </BIAS>
+ <RMSE>  0.241444200     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6031 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>  -1.00664628E+21 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>  0.269672871     </BIAS>
+ <RMSE>  0.685613632     </RMSE>
+ <CORR> -0.335220337     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6031 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   4.56234754E-41 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>  0.432548881     </BIAS>
+ <RMSE>  0.642236352     </RMSE>
+ <CORR> -0.345323175     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.187037036     </MEAN_OBS>
+ <STDV_OBS>  0.326099485     </STDV_OBS>
+ <EXP>
+ <ID>        6068 </ID>
+ <NAME>Prod_Stratus</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   3.82945687E-02 </MEAN>
+ <STDV>  -2.76174751E+30 </STDV>
+ <BIAS>   2.34341264     </BIAS>
+ <RMSE>  0.237087741     </RMSE>
+ <CORR>  -2.76170883E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6068 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.84745443     </BIAS>
+ <RMSE>  0.334663659     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6068 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>  -1.00664628E+21 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>   2.18346906     </BIAS>
+ <RMSE>  0.182198197     </RMSE>
+ <CORR> -0.335220337     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6068 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   4.56234754E-41 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>   1.11590087     </BIAS>
+ <RMSE>  0.118020378     </RMSE>
+ <CORR> -0.345323175     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.66666776E-02 </MEAN_OBS>
+ <STDV_OBS>  0.277425766     </STDV_OBS>
+ <EXP>
+ <ID>        6079 </ID>
+ <NAME>Prod_Stratus</NAME>
+ <NUM>         159 </NUM>
+ <MEAN>   3.21748033E-02 </MEAN>
+ <STDV>  -2.76174751E+30 </STDV>
+ <BIAS>  0.361815304     </BIAS>
+ <RMSE>   8.11016038E-02 </RMSE>
+ <CORR>  -2.76170883E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6079 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         159 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.318561643     </BIAS>
+ <RMSE>   4.32492495E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6079 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         159 </NUM>
+ <MEAN>  -1.00664628E+21 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>  0.389702082     </BIAS>
+ <RMSE>  0.111670710     </RMSE>
+ <CORR> -0.335220337     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6079 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         159 </NUM>
+ <MEAN>   4.56234754E-41 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>  0.376360536     </BIAS>
+ <RMSE>   9.45765749E-02 </RMSE>
+ <CORR> -0.345323175     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.140740752     </MEAN_OBS>
+ <STDV_OBS>  0.185958371     </STDV_OBS>
+ <EXP>
+ <ID>        6109 </ID>
+ <NAME>Prod_Stratus</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   2.31239777E-02 </MEAN>
+ <STDV>  -2.76174751E+30 </STDV>
+ <BIAS>   3.22779608     </BIAS>
+ <RMSE>   3.89842652E-02 </RMSE>
+ <CORR>  -2.76170883E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6109 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.63331413     </BIAS>
+ <RMSE>   4.81542684E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6109 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>  -1.00664628E+21 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>   1.04978549     </BIAS>
+ <RMSE>   1.56850331E-02 </RMSE>
+ <CORR> -0.335220337     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6109 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   4.56234754E-41 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>  0.691484630     </BIAS>
+ <RMSE>  0.105287299     </RMSE>
+ <CORR> -0.345323175     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.48147911E-02 </MEAN_OBS>
+ <STDV_OBS>   2.63687819E-02 </STDV_OBS>
+ <EXP>
+ <ID>        6119 </ID>
+ <NAME>Prod_Stratus</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   2.43545417E-03 </MEAN>
+ <STDV>  -2.76174751E+30 </STDV>
+ <BIAS>  0.398789227     </BIAS>
+ <RMSE>  -2.67389007E-02 </RMSE>
+ <CORR>  -2.76170883E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6119 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.249877766     </BIAS>
+ <RMSE>  -2.66134739E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6119 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>  -1.00664628E+21 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>  0.198404819     </BIAS>
+ <RMSE>  -4.39471863E-02 </RMSE>
+ <CORR> -0.335220337     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6119 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   4.56234754E-41 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>  0.200496629     </BIAS>
+ <RMSE>  -1.82565283E-02 </RMSE>
+ <CORR> -0.345323175     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.137735859     </MEAN_OBS>
+ <STDV_OBS>  0.426899940     </STDV_OBS>
+ <EXP>
+ <ID>        6135 </ID>
+ <NAME>Prod_Stratus</NAME>
+ <NUM>         159 </NUM>
+ <MEAN>   7.38197640E-02 </MEAN>
+ <STDV>  -2.76174751E+30 </STDV>
+ <BIAS>  0.772724450     </BIAS>
+ <RMSE>  0.430679768     </RMSE>
+ <CORR>  -2.76170883E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6135 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         159 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.812838137     </BIAS>
+ <RMSE>  0.352741748     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6135 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         159 </NUM>
+ <MEAN>  -1.00664628E+21 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>  0.594136715     </BIAS>
+ <RMSE>  0.687847376     </RMSE>
+ <CORR> -0.335220337     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6135 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         159 </NUM>
+ <MEAN>   4.56234754E-41 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>  0.867405951     </BIAS>
+ <RMSE>  0.141543880     </RMSE>
+ <CORR> -0.345323175     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.272222251     </MEAN_OBS>
+ <STDV_OBS>  0.584006190     </STDV_OBS>
+ <EXP>
+ <ID>        6138 </ID>
+ <NAME>Prod_Stratus</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   9.53438655E-02 </MEAN>
+ <STDV>  -2.76174751E+30 </STDV>
+ <BIAS>   1.35832465     </BIAS>
+ <RMSE>  0.184993550     </RMSE>
+ <CORR>  -2.76170883E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6138 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.33640087     </BIAS>
+ <RMSE>  0.238683298     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6138 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>  -1.00664628E+21 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>   1.34305573     </BIAS>
+ <RMSE>  0.270341694     </RMSE>
+ <CORR> -0.335220337     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6138 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   4.56234754E-41 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>   1.22881031     </BIAS>
+ <RMSE>  0.451093048     </RMSE>
+ <CORR> -0.345323175     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.206790179     </MEAN_OBS>
+ <STDV_OBS>   1.24268579     </STDV_OBS>
+ <EXP>
+ <ID>        6149 </ID>
+ <NAME>Prod_Stratus</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>  0.197919324     </MEAN>
+ <STDV>  -2.76174751E+30 </STDV>
+ <BIAS>   1.67249215     </BIAS>
+ <RMSE>  0.368638784     </RMSE>
+ <CORR>  -2.76170883E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6149 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.70474303     </BIAS>
+ <RMSE>  0.373283088     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6149 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>  -1.00664628E+21 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>   1.29632819     </BIAS>
+ <RMSE>   2.84821447E-02 </RMSE>
+ <CORR> -0.335220337     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6149 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   4.56234754E-41 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>   1.38913810     </BIAS>
+ <RMSE>   7.79558271E-02 </RMSE>
+ <CORR> -0.345323175     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.12345582E-02 </MEAN_OBS>
+ <STDV_OBS>   7.90825188E-02 </STDV_OBS>
+ <EXP>
+ <ID>        6159 </ID>
+ <NAME>Prod_Stratus</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   1.62460934E-02 </MEAN>
+ <STDV>  -2.76174751E+30 </STDV>
+ <BIAS>  0.350143552     </BIAS>
+ <RMSE>  0.619946599     </RMSE>
+ <CORR>  -2.76170883E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6159 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.495543480     </BIAS>
+ <RMSE>  0.392876923     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6159 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>  -1.00664628E+21 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>  0.383630723     </BIAS>
+ <RMSE>  0.462869316     </RMSE>
+ <CORR> -0.335220337     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6159 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   4.56234754E-41 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>  0.204691157     </BIAS>
+ <RMSE>  0.888705611     </RMSE>
+ <CORR> -0.345323175     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.92592619E-02 </MEAN_OBS>
+ <STDV_OBS>   8.50959420E-02 </STDV_OBS>
+ <EXP>
+ <ID>        6169 </ID>
+ <NAME>Prod_Stratus</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   1.10194273E-02 </MEAN>
+ <STDV>  -2.76174751E+30 </STDV>
+ <BIAS>  0.550365448     </BIAS>
+ <RMSE>  0.137548953     </RMSE>
+ <CORR>  -2.76170883E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6169 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.322481722     </BIAS>
+ <RMSE>  0.270111263     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6169 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>  -1.00664628E+21 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>  0.274605900     </BIAS>
+ <RMSE>  0.565382183     </RMSE>
+ <CORR> -0.335220337     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6169 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   4.56234754E-41 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>  0.308746964     </BIAS>
+ <RMSE>  0.172027409     </RMSE>
+ <CORR> -0.345323175     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.132075474     </MEAN_OBS>
+ <STDV_OBS>  0.671742439     </STDV_OBS>
+ <EXP>
+ <ID>        6174 </ID>
+ <NAME>Prod_Stratus</NAME>
+ <NUM>         159 </NUM>
+ <MEAN>  0.102465466     </MEAN>
+ <STDV>  -2.76174751E+30 </STDV>
+ <BIAS>  0.544410467     </BIAS>
+ <RMSE>  0.704668581     </RMSE>
+ <CORR>  -2.76170883E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6174 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         159 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.844995975     </BIAS>
+ <RMSE>  0.639327824     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6174 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         159 </NUM>
+ <MEAN>  -1.00664628E+21 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>  0.447129637     </BIAS>
+ <RMSE>  0.614240587     </RMSE>
+ <CORR> -0.335220337     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6174 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         159 </NUM>
+ <MEAN>   4.56234754E-41 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>  0.593730330     </BIAS>
+ <RMSE>  0.541225731     </RMSE>
+ <CORR> -0.345323175     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.266666651     </MEAN_OBS>
+ <STDV_OBS>  0.545160830     </STDV_OBS>
+ <EXP>
+ <ID>        6188 </ID>
+ <NAME>Prod_Stratus</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>  0.106722586     </MEAN>
+ <STDV>  -2.76174751E+30 </STDV>
+ <BIAS>   1.31233633     </BIAS>
+ <RMSE>  0.581832826     </RMSE>
+ <CORR>  -2.76170883E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6188 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.03868318     </BIAS>
+ <RMSE>  0.670469105     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6188 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>  -1.00664628E+21 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>   1.13192737     </BIAS>
+ <RMSE>  0.834653616     </RMSE>
+ <CORR> -0.335220337     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6188 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   4.56234754E-41 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>   1.02695227     </BIAS>
+ <RMSE>  0.759469032     </RMSE>
+ <CORR> -0.345323175     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   7.40740774E-03 </MEAN_OBS>
+ <STDV_OBS>  0.666406572     </STDV_OBS>
+ <EXP>
+ <ID>        6041 </ID>
+ <NAME>Prod_Stratus</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   6.29844815E-02 </MEAN>
+ <STDV>  -2.76174751E+30 </STDV>
+ <BIAS>   5.49602658E-02 </BIAS>
+ <RMSE>  0.180480376     </RMSE>
+ <CORR>  -2.76170883E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6041 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   4.31108698E-02 </BIAS>
+ <RMSE>  0.232270107     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6041 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>  -1.00664628E+21 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>  0.154461354     </BIAS>
+ <RMSE>  -1.66234300E-02 </RMSE>
+ <CORR> -0.335220337     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6041 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   4.56234754E-41 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>  0.665055752     </BIAS>
+ <RMSE>   1.51665574E-02 </RMSE>
+ <CORR> -0.345323175     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.80247082E-02 </MEAN_OBS>
+ <STDV_OBS>   1.99622858     </STDV_OBS>
+ <EXP>
+ <ID>        6052 </ID>
+ <NAME>Prod_Stratus</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>  0.361210912     </MEAN>
+ <STDV>  -2.76174751E+30 </STDV>
+ <BIAS>   1.44363880     </BIAS>
+ <RMSE>  0.834684491     </RMSE>
+ <CORR>  -2.76170883E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6052 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.31340134     </BIAS>
+ <RMSE>  0.805856764     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6052 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>  -1.00664628E+21 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>  0.321400970     </BIAS>
+ <RMSE>  0.239155442     </RMSE>
+ <CORR> -0.335220337     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6052 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   4.56234754E-41 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>   1.83428276     </BIAS>
+ <RMSE>  0.814570665     </RMSE>
+ <CORR> -0.345323175     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.174074098     </MEAN_OBS>
+ <STDV_OBS>   1.68078756     </STDV_OBS>
+ <EXP>
+ <ID>        6058 </ID>
+ <NAME>Prod_Stratus</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>  0.248309404     </MEAN>
+ <STDV>  -2.76174751E+30 </STDV>
+ <BIAS>  0.763364315     </BIAS>
+ <RMSE>  0.623510420     </RMSE>
+ <CORR>  -2.76170883E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6058 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.973162949     </BIAS>
+ <RMSE>  0.606458902     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6058 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>  -1.00664628E+21 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>  0.883419156     </BIAS>
+ <RMSE>  0.755891621     </RMSE>
+ <CORR> -0.335220337     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6058 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   4.56234754E-41 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>   1.41807270     </BIAS>
+ <RMSE>  0.534293056     </RMSE>
+ <CORR> -0.345323175     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.318867952     </MEAN_OBS>
+ <STDV_OBS>  0.836573124     </STDV_OBS>
+ <EXP>
+ <ID>        6065 </ID>
+ <NAME>Prod_Stratus</NAME>
+ <NUM>         159 </NUM>
+ <MEAN>   8.07417780E-02 </MEAN>
+ <STDV>  -2.76174751E+30 </STDV>
+ <BIAS>   1.22366691     </BIAS>
+ <RMSE>  0.497378051     </RMSE>
+ <CORR>  -2.76170883E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6065 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         159 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.36864328     </BIAS>
+ <RMSE>  0.595124781     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6065 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         159 </NUM>
+ <MEAN>  -1.00664628E+21 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>   1.09493971     </BIAS>
+ <RMSE>  0.655588090     </RMSE>
+ <CORR> -0.335220337     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6065 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         159 </NUM>
+ <MEAN>   4.56234754E-41 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>   1.18080211     </BIAS>
+ <RMSE>  0.538354993     </RMSE>
+ <CORR> -0.345323175     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.220370322     </MEAN_OBS>
+ <STDV_OBS>   3.82220224E-02 </STDV_OBS>
+ <EXP>
+ <ID>        6072 </ID>
+ <NAME>Prod_Stratus</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   6.81483839E-03 </MEAN>
+ <STDV>  -2.76174751E+30 </STDV>
+ <BIAS>   1.11615992     </BIAS>
+ <RMSE>  0.319272190     </RMSE>
+ <CORR>  -2.76170883E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6072 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.19776046     </BIAS>
+ <RMSE>   3.37149650E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6072 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>  -1.00664628E+21 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>   1.57616150     </BIAS>
+ <RMSE>   8.65724608E-02 </RMSE>
+ <CORR> -0.335220337     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6072 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   4.56234754E-41 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>   1.13506389     </BIAS>
+ <RMSE>  0.312444508     </RMSE>
+ <CORR> -0.345323175     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   8.88888910E-02 </MEAN_OBS>
+ <STDV_OBS>  0.388273984     </STDV_OBS>
+ <EXP>
+ <ID>        6074 </ID>
+ <NAME>Prod_Stratus</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   6.63101152E-02 </MEAN>
+ <STDV>  -2.76174751E+30 </STDV>
+ <BIAS>  0.252620041     </BIAS>
+ <RMSE>  0.963970482     </RMSE>
+ <CORR>  -2.76170883E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6074 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.880837262     </BIAS>
+ <RMSE>  0.360664040     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6074 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>  -1.00664628E+21 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>  0.794909775     </BIAS>
+ <RMSE>  0.536272228     </RMSE>
+ <CORR> -0.335220337     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6074 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   4.56234754E-41 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>  0.666466117     </BIAS>
+ <RMSE>  0.810403526     </RMSE>
+ <CORR> -0.345323175     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.106790140     </MEAN_OBS>
+ <STDV_OBS>  0.579646647     </STDV_OBS>
+ <EXP>
+ <ID>        6082 </ID>
+ <NAME>Prod_Stratus</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   7.15356544E-02 </MEAN>
+ <STDV>  -2.76174751E+30 </STDV>
+ <BIAS>   2.72625184     </BIAS>
+ <RMSE>  0.838290215     </RMSE>
+ <CORR>  -2.76170883E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6082 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.77677345     </BIAS>
+ <RMSE>  0.944420874     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6082 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>  -1.00664628E+21 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>  0.622410297     </BIAS>
+ <RMSE>  0.401518106     </RMSE>
+ <CORR> -0.335220337     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6082 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   4.56234754E-41 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>  0.794215918     </BIAS>
+ <RMSE>   2.49260366E-02 </RMSE>
+ <CORR> -0.345323175     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.149999991     </MEAN_OBS>
+ <STDV_OBS>  0.289990455     </STDV_OBS>
+ <EXP>
+ <ID>        6102 </ID>
+ <NAME>Prod_Stratus</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   4.53018211E-02 </MEAN>
+ <STDV>  -2.76174751E+30 </STDV>
+ <BIAS>  0.895000339     </BIAS>
+ <RMSE>  -4.32806322E-03 </RMSE>
+ <CORR>  -2.76170883E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6102 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.886359572     </BIAS>
+ <RMSE>  -3.01694917E-03 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6102 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>  -1.00664628E+21 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>  0.840628386     </BIAS>
+ <RMSE>  0.461723328     </RMSE>
+ <CORR> -0.335220337     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6102 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   4.56234754E-41 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>  0.861653090     </BIAS>
+ <RMSE>  0.121523350     </RMSE>
+ <CORR> -0.345323175     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.98113143E-02 </MEAN_OBS>
+ <STDV_OBS>  0.126003891     </STDV_OBS>
+ <EXP>
+ <ID>        6104 </ID>
+ <NAME>Prod_Stratus</NAME>
+ <NUM>         159 </NUM>
+ <MEAN>   1.63860954E-02 </MEAN>
+ <STDV>  -2.76174751E+30 </STDV>
+ <BIAS>   2.00769091     </BIAS>
+ <RMSE>  0.159545034     </RMSE>
+ <CORR>  -2.76170883E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6104 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         159 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.48712206     </BIAS>
+ <RMSE>  0.160935968     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6104 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         159 </NUM>
+ <MEAN>  -1.00664628E+21 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>   1.80523288     </BIAS>
+ <RMSE>   3.79018113E-02 </RMSE>
+ <CORR> -0.335220337     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6104 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         159 </NUM>
+ <MEAN>   4.56234754E-41 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>  0.197758868     </BIAS>
+ <RMSE>  0.198572263     </RMSE>
+ <CORR> -0.345323175     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.58024724E-02 </MEAN_OBS>
+ <STDV_OBS>  0.778325915     </STDV_OBS>
+ <EXP>
+ <ID>        6110 </ID>
+ <NAME>Prod_Stratus</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   7.99998268E-02 </MEAN>
+ <STDV>  -2.76174751E+30 </STDV>
+ <BIAS>   3.04925990     </BIAS>
+ <RMSE>  0.682021558     </RMSE>
+ <CORR>  -2.76170883E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6110 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.803565562     </BIAS>
+ <RMSE>  0.637632430     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6110 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>  -1.00664628E+21 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>   1.22683382     </BIAS>
+ <RMSE>  0.820672810     </RMSE>
+ <CORR> -0.335220337     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6110 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   4.56234754E-41 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>  0.687325895     </BIAS>
+ <RMSE>  0.576709330     </RMSE>
+ <CORR> -0.345323175     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.108024701     </MEAN_OBS>
+ <STDV_OBS>  0.137695178     </STDV_OBS>
+ <EXP>
+ <ID>        6126 </ID>
+ <NAME>Prod_Stratus</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   2.34342162E-02 </MEAN>
+ <STDV>  -2.76174751E+30 </STDV>
+ <BIAS>  0.670483470     </BIAS>
+ <RMSE>  0.508302093     </RMSE>
+ <CORR>  -2.76170883E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6126 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.535264969     </BIAS>
+ <RMSE>  0.399290860     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6126 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>  -1.00664628E+21 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>  0.318098545     </BIAS>
+ <RMSE>  0.566461384     </RMSE>
+ <CORR> -0.335220337     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6126 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   4.56234754E-41 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>  0.349516362     </BIAS>
+ <RMSE>  0.398178369     </RMSE>
+ <CORR> -0.345323175     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.128301904     </MEAN_OBS>
+ <STDV_OBS>  0.319719285     </STDV_OBS>
+ <EXP>
+ <ID>        6136 </ID>
+ <NAME>Prod_Stratus</NAME>
+ <NUM>         159 </NUM>
+ <MEAN>   5.70363961E-02 </MEAN>
+ <STDV>  -2.76174751E+30 </STDV>
+ <BIAS>  0.411195815     </BIAS>
+ <RMSE>  0.889622211     </RMSE>
+ <CORR>  -2.76170883E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6136 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         159 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.533857048     </BIAS>
+ <RMSE>  0.762650192     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6136 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         159 </NUM>
+ <MEAN>  -1.00664628E+21 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>  0.664372265     </BIAS>
+ <RMSE>  0.716245651     </RMSE>
+ <CORR> -0.335220337     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6136 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         159 </NUM>
+ <MEAN>   4.56234754E-41 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>  0.770899296     </BIAS>
+ <RMSE>  0.340349495     </RMSE>
+ <CORR> -0.345323175     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.256862730     </MEAN_OBS>
+ <STDV_OBS>  0.690100968     </STDV_OBS>
+ <EXP>
+ <ID>        6141 </ID>
+ <NAME>Prod_Stratus</NAME>
+ <NUM>         153 </NUM>
+ <MEAN>  0.117537431     </MEAN>
+ <STDV>  -2.76174751E+30 </STDV>
+ <BIAS>   1.32714033     </BIAS>
+ <RMSE>  0.247637376     </RMSE>
+ <CORR>  -2.76170883E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6141 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         153 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.38323212     </BIAS>
+ <RMSE>  0.163068011     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6141 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         153 </NUM>
+ <MEAN>  -1.00664628E+21 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>   1.15082586     </BIAS>
+ <RMSE>  0.480068594     </RMSE>
+ <CORR> -0.335220337     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6141 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         153 </NUM>
+ <MEAN>   4.56234754E-41 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>  0.879718602     </BIAS>
+ <RMSE>  0.773274601     </RMSE>
+ <CORR> -0.345323175     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   7.69230798E-02 </MEAN_OBS>
+ <STDV_OBS>   1.39139116     </STDV_OBS>
+ <EXP>
+ <ID>        6147 </ID>
+ <NAME>Prod_Stratus</NAME>
+ <NUM>         156 </NUM>
+ <MEAN>  0.206591591     </MEAN>
+ <STDV>  -2.76174751E+30 </STDV>
+ <BIAS>  0.256887466     </BIAS>
+ <RMSE>  0.894561946     </RMSE>
+ <CORR>  -2.76170883E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6147 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         156 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.322329640     </BIAS>
+ <RMSE>  0.817683697     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6147 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         156 </NUM>
+ <MEAN>  -1.00664628E+21 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>   1.17736423     </BIAS>
+ <RMSE>  0.639638305     </RMSE>
+ <CORR> -0.335220337     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6147 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         156 </NUM>
+ <MEAN>   4.56234754E-41 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>   1.15617716     </BIAS>
+ <RMSE>  0.688693762     </RMSE>
+ <CORR> -0.345323175     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.151851863     </MEAN_OBS>
+ <STDV_OBS>   1.38408816     </STDV_OBS>
+ <EXP>
+ <ID>        6154 </ID>
+ <NAME>Prod_Stratus</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>  0.196037337     </MEAN>
+ <STDV>  -2.76174751E+30 </STDV>
+ <BIAS>   1.61518860     </BIAS>
+ <RMSE>  0.281881541     </RMSE>
+ <CORR>  -2.76170883E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6154 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.40744805     </BIAS>
+ <RMSE>  0.206216156     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6154 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>  -1.00664628E+21 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>  0.952144742     </BIAS>
+ <RMSE>  0.225560635     </RMSE>
+ <CORR> -0.335220337     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6154 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   4.56234754E-41 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>   1.42965627     </BIAS>
+ <RMSE>  0.247176766     </RMSE>
+ <CORR> -0.345323175     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.242592588     </MEAN_OBS>
+ <STDV_OBS>   1.08681750     </STDV_OBS>
+ <EXP>
+ <ID>        6156 </ID>
+ <NAME>Prod_Stratus</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>  0.138315320     </MEAN>
+ <STDV>  -2.76174751E+30 </STDV>
+ <BIAS>   1.34932387     </BIAS>
+ <RMSE>  0.210098475     </RMSE>
+ <CORR>  -2.76170883E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6156 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.00559843     </BIAS>
+ <RMSE>  0.240714461     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6156 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>  -1.00664628E+21 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>   1.28639245     </BIAS>
+ <RMSE>  0.162719280     </RMSE>
+ <CORR> -0.335220337     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6156 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   4.56234754E-41 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>   1.32680976     </BIAS>
+ <RMSE>  0.186251596     </RMSE>
+ <CORR> -0.345323175     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.277777761     </MEAN_OBS>
+ <STDV_OBS>  0.498614669     </STDV_OBS>
+ <EXP>
+ <ID>        6170 </ID>
+ <NAME>Prod_Stratus</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   7.24885836E-02 </MEAN>
+ <STDV>  -2.76174751E+30 </STDV>
+ <BIAS>   1.21256566     </BIAS>
+ <RMSE>  0.278179735     </RMSE>
+ <CORR>  -2.76170883E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6170 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.07578945     </BIAS>
+ <RMSE>  0.533430994     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6170 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>  -1.00664628E+21 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>  0.850276232     </BIAS>
+ <RMSE>  0.577757597     </RMSE>
+ <CORR> -0.335220337     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6170 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   4.56234754E-41 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>  0.831062973     </BIAS>
+ <RMSE>  0.618186355     </RMSE>
+ <CORR> -0.345323175     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.124074079     </MEAN_OBS>
+ <STDV_OBS>   1.24102616     </STDV_OBS>
+ <EXP>
+ <ID>        6197 </ID>
+ <NAME>Prod_Stratus</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>  0.178500250     </MEAN>
+ <STDV>  -2.76174751E+30 </STDV>
+ <BIAS>   1.06767237     </BIAS>
+ <RMSE>  -6.14785729E-03 </RMSE>
+ <CORR>  -2.76170883E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6197 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.13979304     </BIAS>
+ <RMSE>  -5.73805207E-03 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6197 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>  -1.00664628E+21 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>   1.21374810     </BIAS>
+ <RMSE>   1.68321058E-02 </RMSE>
+ <CORR> -0.335220337     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6197 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   4.56234754E-41 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>   1.43346465     </BIAS>
+ <RMSE>   6.53978065E-02 </RMSE>
+ <CORR> -0.345323175     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.128301874     </MEAN_OBS>
+ <STDV_OBS>   1.29664338     </STDV_OBS>
+ <EXP>
+ <ID>       10379 </ID>
+ <NAME>Prod_Stratus</NAME>
+ <NUM>         159 </NUM>
+ <MEAN>  0.240330070     </MEAN>
+ <STDV>  -2.76174751E+30 </STDV>
+ <BIAS>   2.32256293     </BIAS>
+ <RMSE>  -2.04787478E-02 </RMSE>
+ <CORR>  -2.76170883E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10379 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         159 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.58752930     </BIAS>
+ <RMSE>  -1.90705005E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10379 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         159 </NUM>
+ <MEAN>  -1.00664628E+21 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>   1.30214810     </BIAS>
+ <RMSE>  0.232000008     </RMSE>
+ <CORR> -0.335220337     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10379 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         159 </NUM>
+ <MEAN>   4.56234754E-41 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>   1.48405945     </BIAS>
+ <RMSE>   3.85730639E-02 </RMSE>
+ <CORR> -0.345323175     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.362893075     </MEAN_OBS>
+ <STDV_OBS>   2.14756536     </STDV_OBS>
+ <EXP>
+ <ID>       10268 </ID>
+ <NAME>Prod_Stratus</NAME>
+ <NUM>         159 </NUM>
+ <MEAN>  0.431015015     </MEAN>
+ <STDV>  -2.76174751E+30 </STDV>
+ <BIAS>   2.88985562     </BIAS>
+ <RMSE>  0.124619924     </RMSE>
+ <CORR>  -2.76170883E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10268 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         159 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.78679323     </BIAS>
+ <RMSE>  0.211983711     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10268 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         159 </NUM>
+ <MEAN>  -1.00664628E+21 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>   1.93130434     </BIAS>
+ <RMSE>  0.372026980     </RMSE>
+ <CORR> -0.335220337     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10268 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         159 </NUM>
+ <MEAN>   4.56234754E-41 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>   2.19846392     </BIAS>
+ <RMSE>  0.349092603     </RMSE>
+ <CORR> -0.345323175     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.132704377     </MEAN_OBS>
+ <STDV_OBS>   1.26526511     </STDV_OBS>
+ <EXP>
+ <ID>       10271 </ID>
+ <NAME>Prod_Stratus</NAME>
+ <NUM>         159 </NUM>
+ <MEAN>  0.218157008     </MEAN>
+ <STDV>  -2.76174751E+30 </STDV>
+ <BIAS>   5.57190228     </BIAS>
+ <RMSE>  0.376267672     </RMSE>
+ <CORR>  -2.76170883E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10271 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         159 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   5.98698044     </BIAS>
+ <RMSE>  0.352517575     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10271 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         159 </NUM>
+ <MEAN>  -1.00664628E+21 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>   1.97466958     </BIAS>
+ <RMSE>   2.60737594E-02 </RMSE>
+ <CORR> -0.335220337     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10271 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         159 </NUM>
+ <MEAN>   4.56234754E-41 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>   1.38818491     </BIAS>
+ <RMSE>  -1.17813554E-02 </RMSE>
+ <CORR> -0.345323175     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.166666687     </MEAN_OBS>
+ <STDV_OBS>   1.16251409     </STDV_OBS>
+ <EXP>
+ <ID>       10365 </ID>
+ <NAME>Prod_Stratus</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>  0.174196988     </MEAN>
+ <STDV>  -2.76174751E+30 </STDV>
+ <BIAS>  0.961915970     </BIAS>
+ <RMSE>  0.163706169     </RMSE>
+ <CORR>  -2.76170883E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10365 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.816379130     </BIAS>
+ <RMSE>  0.214372113     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10365 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>  -1.00664628E+21 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>   1.34812355     </BIAS>
+ <RMSE>   8.38753432E-02 </RMSE>
+ <CORR> -0.335220337     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10365 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   4.56234754E-41 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>   1.06169093     </BIAS>
+ <RMSE>  0.471311182     </RMSE>
+ <CORR> -0.345323175     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.185534596     </MEAN_OBS>
+ <STDV_OBS>  0.682477951     </STDV_OBS>
+ <EXP>
+ <ID>       10385 </ID>
+ <NAME>Prod_Stratus</NAME>
+ <NUM>         159 </NUM>
+ <MEAN>  0.103088520     </MEAN>
+ <STDV>  -2.76174751E+30 </STDV>
+ <BIAS>   2.22105908     </BIAS>
+ <RMSE>  -2.08106339E-02 </RMSE>
+ <CORR>  -2.76170883E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10385 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         159 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.70762444     </BIAS>
+ <RMSE>  -2.18153764E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10385 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         159 </NUM>
+ <MEAN>  -1.00664628E+21 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>   1.19684339     </BIAS>
+ <RMSE>   7.84590747E-03 </RMSE>
+ <CORR> -0.335220337     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10385 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         159 </NUM>
+ <MEAN>   4.56234754E-41 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>   1.37786770     </BIAS>
+ <RMSE>  -1.62558947E-02 </RMSE>
+ <CORR> -0.345323175     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.168518543     </MEAN_OBS>
+ <STDV_OBS>   7.34252408E-02 </STDV_OBS>
+ <EXP>
+ <ID>       10091 </ID>
+ <NAME>Prod_Stratus</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   1.87895931E-02 </MEAN>
+ <STDV>  -2.76174751E+30 </STDV>
+ <BIAS>   1.51035714     </BIAS>
+ <RMSE>  0.132563040     </RMSE>
+ <CORR>  -2.76170883E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10091 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.01590705     </BIAS>
+ <RMSE>  0.112712711     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10091 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>  -1.00664628E+21 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>  0.846627355     </BIAS>
+ <RMSE>  -1.05922138E-02 </RMSE>
+ <CORR> -0.335220337     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10091 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   4.56234754E-41 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>  0.829432786     </BIAS>
+ <RMSE>  -6.04776607E-04 </RMSE>
+ <CORR> -0.345323175     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.66666776E-02 </MEAN_OBS>
+ <STDV_OBS>   1.40169072     </STDV_OBS>
+ <EXP>
+ <ID>        6051 </ID>
+ <NAME>Prod_Stratus</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>  0.245963857     </MEAN>
+ <STDV>  -2.76174751E+30 </STDV>
+ <BIAS>   1.27757132     </BIAS>
+ <RMSE>  0.319322139     </RMSE>
+ <CORR>  -2.76170883E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6051 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.904503405     </BIAS>
+ <RMSE>  0.363176018     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6051 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>  -1.00664628E+21 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>  0.289825648     </BIAS>
+ <RMSE>  0.763335288     </RMSE>
+ <CORR> -0.335220337     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6051 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   4.56234754E-41 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>   1.14071310     </BIAS>
+ <RMSE>  0.718421936     </RMSE>
+ <CORR> -0.345323175     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>  0.435514718     </STDV_OBS>
+ <EXP>
+ <ID>        6080 </ID>
+ <NAME>Prod_Stratus</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   5.10345697E-02 </MEAN>
+ <STDV>  -2.76174751E+30 </STDV>
+ <BIAS>  0.964541495     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -2.76170883E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6080 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.356040925     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6080 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>  -1.00664628E+21 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>  0.198644698     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR> -0.335220337     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6080 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   4.56234754E-41 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>  0.434168428     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR> -0.345323175     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.32098797E-03 </MEAN_OBS>
+ <STDV_OBS>  0.618937612     </STDV_OBS>
+ <EXP>
+ <ID>       10321 </ID>
+ <NAME>Prod_Stratus</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   5.10886870E-02 </MEAN>
+ <STDV>  -2.76174751E+30 </STDV>
+ <BIAS>  0.455695301     </BIAS>
+ <RMSE>  0.265176922     </RMSE>
+ <CORR>  -2.76170883E+30 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10321 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.930734277     </BIAS>
+ <RMSE>  0.267160207     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10321 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>  -1.00664628E+21 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>  0.937056065     </BIAS>
+ <RMSE>  0.268652260     </RMSE>
+ <CORR> -0.335220337     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10321 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         162 </NUM>
+ <MEAN>   4.56234754E-41 </MEAN>
+ <STDV>   4553.12500     </STDV>
+ <BIAS>  0.609843135     </BIAS>
+ <RMSE>  0.277698427     </RMSE>
+ <CORR> -0.345323175     </CORR>
+ </EXP>
+ </STATION>
+</STAT>
